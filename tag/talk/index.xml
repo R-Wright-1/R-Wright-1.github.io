@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk | Academic</title>
+    <link>https://R-Wright-1.github.io/tag/talk/</link>
+      <atom:link href="https://R-Wright-1.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2019 21:58:12 -0600</lastBuildDate>
+    <image>
+      <url>https://R-Wright-1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Talk</title>
+      <link>https://R-Wright-1.github.io/tag/talk/</link>
+    </image>
+    
+    <item>
+      <title>Bacterial coping mechanisms for aging: using an individual-based model to study aging in biofilms</title>
+      <link>https://R-Wright-1.github.io/post/talk11_microsoc2/</link>
+      <pubDate>Sat, 06 Apr 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk11_microsoc2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (9 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk11_microsoc2/featured_hu437bd19a0a0900e3201ecd5e7ac61c3a_2751195_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk11_microsoc2/featured_hu437bd19a0a0900e3201ecd5e7ac61c3a_2751195_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Aging can be defined as an accumulation of damage, or a loss of function, with increasing age. For bacteria, it has generally been assumed that the mechanism used to cope with aging is the asymmetric segregation of damage at division, so that all of the damage is inherited by one cell and the other is therefore rejuvenated. Another, often neglected, mechanism is to repair the damage; our previous computational modelling work has found that an optimized, fixed rate of repair is fitter than damage segregation in well-mixed environments such as chemostats. The predominant mode of growth for bacteria is in biofilms, however, and here we investigate aging in biofilms using the individual-based model iDynoMiCS. In addition to the previously used damage segregation and fixed repair strategies, we introduced adaptive repair: sensing the current damage levels within the cell and responding to this by investing in damage repair machinery. We found that the optimal method for dealing with cellular damage varies with the environment being investigated. The investment of additional resources into adaptive repair is only beneficial when competition is sufficiently strong, in the chemostat and in biofilms, and the speed at which the fittest strategy becomes apparent depends upon the initial density of cells. When the bacterial cells are dense initially, and thus the competition between strategies is stronger, the adaptive repair strategy emerges as the winner much more rapidly.
+</description>
+    </item>
+    
+    <item>
+      <title>Food or a free ride? The ability of a marine microbial community to degrade plastics</title>
+      <link>https://R-Wright-1.github.io/post/talk10_microsoc/</link>
+      <pubDate>Sat, 06 Apr 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk10_microsoc/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk10_microsoc/featured_hu4a282524dde9049d129386b6e43d2dcc_2531617_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk10_microsoc/featured_hu4a282524dde9049d129386b6e43d2dcc_2531617_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Recalcitrant polymers are widely distributed in the environment. This includes natural polymers, such as chitin, but also synthetic polymers, which are becoming increasingly abundant, and for which biodegradation is uncertain. Distribution of labour in microbial communities commonly evolves in nature, particularly for arduous processes, suggesting that a community may be better at degrading recalcitrant compounds than individual microorganisms. Previous work, carried out by us, showed that a microbial community could be selected for the efficient degradation of chitin, but if the community was left for too long then the function decayed as the active members were replaced by cheaters and grazers. Here we aimed to determine whether (i) a marine microbial community may be capable of degrading the common packaging plastic poly(ethylene terephthalate) (PET), (ii) whether we see the same pattern of community succession as we do with chitin and (iii) if this community may be better able to degrade PET than an individual organism. We incubated several different types of PET with the natural microbial community found colonising coastal marine debris, and characterised the microbial community succession across the incubation period. We show an enrichment of taxa that have previously been shown to be capable of the degradation of recalcitrant compounds, and we show that this community is capable of growing faster than an individual organism. We are currently determining the correlation between microbial community structure and the concentration of breakdown products from PET, as well as the mechanisms that are used for this degradation.
+</description>
+    </item>
+    
+    <item>
+      <title>Food or a free ride? The ability of a marine microbial community to degrade plastics</title>
+      <link>https://R-Wright-1.github.io/post/talk9_sls/</link>
+      <pubDate>Wed, 06 Mar 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk9_sls/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk9_sls/featured_hu4a282524dde9049d129386b6e43d2dcc_2528775_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk9_sls/featured_hu4a282524dde9049d129386b6e43d2dcc_2528775_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Recalcitrant polymers are widely distributed in the environment. This includes natural polymers, such as chitin, but also synthetic polymers such as plastics, which are becoming increasingly abundant, and for which biodegradation is uncertain. Distribution of labour in microbial communities commonly evolves in nature, particularly for arduous processes, suggesting that a community may be better at degrading recalcitrant compounds than individual microorganisms. Previous work, carried out by us, showed that a microbial community could be selected for the efficient degradation of chitin, but if the community was left for too long then the function decayed as the active members were replaced by cheaters and grazers. Here we aimed to determine whether i) a marine microbial community may be capable of degrading the common packaging plastic poly(ethylene terephthalate) (PET), ii) whether we see a pattern of community succession, as we do with chitin, and iii) if this community may be better able to degrade PET than an individual organism. We incubated several different types of PET with the natural microbial community found colonising coastal marine debris, and characterised the microbial community succession across the incubation period. We show an enrichment of taxa that have previously been shown to be capable of the degradation of recalcitrant compounds. We also isolated bacteria likely to be capable of the degradation of PET and characterised the enzymes that they are using to do so. The community seems to be capable of growing faster than individual organisms and we are currently determining the correlation between microbial community structure and the concentration of breakdown products from PET, thereby identifying the mechanisms used for this degradation.
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial selection of microbial communities to enhance degradation of recalcitrant polymers</title>
+      <link>https://R-Wright-1.github.io/post/talk8_mmeg/</link>
+      <pubDate>Tue, 06 Nov 2018 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk8_mmeg/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk8_mmeg/featured_hu4a282524dde9049d129386b6e43d2dcc_2580226_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk8_mmeg/featured_hu4a282524dde9049d129386b6e43d2dcc_2580226_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Recalcitrant polymers are widely distributed in the environment. This includes natural polymers, such as chitin, but synthetic polymers are becoming increasingly abundant, for which biodegradation is uncertain. Distribution of labour in microbial communities commonly evolves in nature, particularly for arduous processes, suggesting a community may be better at degrading recalcitrant compounds than individual microorganisms. Artificial selection of microbial communities with better degradation potential has seduced scientists for over a decade, but the method has not been systematically optimised nor applied to polymer degradation. Using chitin as a case study, we successfully selected for microbial communities with enhanced chitinase activities but found that continuous optimisation of incubation times between selective generations was of utmost importance. The analysis of the community composition over the entire selection process revealed fundamental aspects in microbial ecology: when incubation times between generations were optimal, the system was dominated by Gammaproteobacteria, main bearers of chitinase enzymes and drivers of chitin degradation, before being succeeded by cheating, cross-feeding and grazing organisms.
+</description>
+    </item>
+    
+    <item>
+      <title>Can a microbial community be artificially evolved to degrade plastic?</title>
+      <link>https://R-Wright-1.github.io/post/talk7_micro2018/</link>
+      <pubDate>Tue, 06 Nov 2018 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk7_micro2018/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk7_micro2018/featured_hua00c2cbb880b0075d3f3ce6be45385a5_2855039_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk7_micro2018/featured_hua00c2cbb880b0075d3f3ce6be45385a5_2855039_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Up to 12.7 million tons of plastics are thought to enter the oceans every year, and this figure is likely to increase. As recalcitrant synthetic polymers, plastics are notoriously difficult to degrade in the marine environment and are therefore expected to persist indefinitely. To learn about the likely fate of these synthetic polymers in the ocean, we can investigate the fate of recalcitrant natural marine polymers, which are biodegraded by marine bacteria. Through artificial selection of a whole microbial community, we have obtained a microbial community that degrades the natural, recalcitrant polymer, chitin, more efficiently than that which naturally occurs. We found that the evolved community exhibited higher chitinase activity, and therefore higher potential to degrade chitin. We characterised the community using MiSeq and by obtaining isolates and found that it became enriched in organisms that are able to degrade chitin, but only when important methodological caveats, relating to the incubation time between selections, were met. We are currently applying the same method to explore the degradability of the commonly used packaging plastic poly(ethylene terephthalate) (PET). Here, the community that is best at degradation is determined based upon its ability to grow with PET as the sole carbon source. We have carried out a community succession experiment prior to the selection experiment using a range of different types of PET (i.e. PET, weathered PET, low-crystallinity PET, PET monomer) and will carry this out again at the end of the selection. The community succession here is assessed using metabolic activity assays, amplicon sequencing of the community and chemical monitoring for PET degradation products. The results of this study will inform us on the potential for microbial communities to develop the ability to degrade marine plastics.
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial ecosystem selection for marine polymer degradation</title>
+      <link>https://R-Wright-1.github.io/post/talk6_mba/</link>
+      <pubDate>Sun, 06 May 2018 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk6_mba/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk6_mba/featured_hua00c2cbb880b0075d3f3ce6be45385a5_2983963_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk6_mba/featured_hua00c2cbb880b0075d3f3ce6be45385a5_2983963_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Approximately 8 million tons of plastics (synthetic polymers) are thought to enter the oceans every year, and this figure is increasing. Plastics in the marine environment are notoriously difficult to degrade and may therefore persist indefinitely. In order to learn about the likely fate of these synthetic polymers in the ocean, we may be able to look at the fate of natural marine polymers, which are already degraded by marine microorganisms. When compared with single strains, microbial communities and consortia have previously been found to degrade environmental contaminants more efficiently, and artificial selection of whole ecosystems has been used to evolve communities of microorganisms that are better able to degrade contaminants than their original counterparts. Here, we present a method in which a microbial community, that was taken from colonised coastal marine debris, may be artificially selected to be better able to degrade polymers, using chitin, an abundant but recalcitrant natural polymer, as proof of concept. We found that, not only could a community be selected and evolved to have higher chitinase activity, and therefore potential to degrade chitin than the original environmental community, but MiSeq amplicon sequencing showed there to be an enrichment of groups that have been previously shown to be capable of degrading chitin. It was found that an important methodological caveat was that regular testing for the optimal incubation time of communities should be carried out, so as the next generation may be taken at the time of the peak in chitinase activity. This is because of microbial community succession; after an initial peak in community members that are able to produce chitinases, these are overtaken by “cheaters”. The results of this study indicate the potential of microorganisms to develop the ability to better degrade more recalcitrant marine polymers.
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial ecosystem selection for marine polymer degradation</title>
+      <link>https://R-Wright-1.github.io/post/talk5_imdc/</link>
+      <pubDate>Tue, 06 Mar 2018 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk5_imdc/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu6d54ce58d245703ec581c60a094673b4_4047637_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu6d54ce58d245703ec581c60a094673b4_4047637_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Up to 12.7 million tons of plastics (recalcitrant synthetic polymers) are thought to enter the oceans every year, and this figure is likely to increase. Plastics in the marine environment are notoriously difficult to degrade and may therefore persist for hundreds of years. In order to learn about the likely fate of these synthetic polymers in the ocean, we may be able to look at the fate of natural marine polymers, which are already degraded by marine bacteria. When compared with single strains, microbial communities and consortia have previously been found to degrade environmental contaminants more efficiently, and artificial selection of whole ecosystems has been used to evolve communities of microorganisms that are better able to degrade these contaminants than their original counterparts. Here, we present a method in which a microbial community, that was taken from colonised coastal marine debris, may be artificially selected to be better able to degrade polymers, using chitin, an abundant but recalcitrant natural polymer, as proof of concept. We found that, not only could a community, be selected and evolved to have higher chitinase activity, and therefore potential to degrade chitin than the original environmental community, but that it also possessed a higher diversity of chitinases than an individual strain, and may therefore be able to degrade chitin more completely and efficiently. Currently, this method is being applied to the degradation of the commonly used packaging plastic poly(ethylene terephthalate) (PET). Here, the determination of the best community is based upon the ability to grow using PET as the sole carbon source, and uses a combination of metabolic and enzyme activity assays, clear zone plates and changes in the composition and weight of PET films exposed to these communities to assess this. We hope that the results of this study will indicate the potential of microorganisms to develop the ability to degrade marine plastics.
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial ecosystem selection for marine polymer degradation</title>
+      <link>https://R-Wright-1.github.io/post/talk4_mmeg/</link>
+      <pubDate>Wed, 06 Dec 2017 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk4_mmeg/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (12 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu6d54ce58d245703ec581c60a094673b4_4104074_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu6d54ce58d245703ec581c60a094673b4_4104074_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+&lt;strong&gt;Can artificial community selection aid in the degradation of marine polymers?&lt;/strong&gt;&lt;/br&gt;
+Up to 12.7 million tons of plastics are thought to enter the oceans every year. Plastics are notoriously difficult to degrade in the marine environment and are therefore expected to persist for hundreds of years, however, some previous studies have found microorganisms that are capable of the biodegradation of plastics. Research has shown that a microbial community or consortia may be able to degrade environmental contaminants more efficiently than single strains, and this study aimed to determine whether a microbial community may be evolved, using artificial selection, that is better able to degrade polymers than the initial environmental community. A proof of principle artificial selection has been carried out to evolve a community for the degradation of chitin, a recalcitrant natural polymer that plays an important role in ocean nutrient cycling, that we know marine microorganisms are capable of degrading. This involved selecting the best communities based on high chitinase activity (degradation potential) and used these to inoculate the next generation. 16S and 18S MiSeq amplicon sequencing is currently being carried out to determine the nature of any changes in microbial community composition, as well as to look at community succession within the incubation period of a generation. 
+</description>
+    </item>
+    
+    <item>
+      <title>Aging of bacteria in biofilms, using an Individual-based model to study growth</title>
+      <link>https://R-Wright-1.github.io/post/talk1_iscb/</link>
+      <pubDate>Thu, 06 Jun 2013 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk1_iscb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Oral presentation (15 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hue376e9ca3a4c11ad48f65c1d34dd5be5_7383294_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hue376e9ca3a4c11ad48f65c1d34dd5be5_7383294_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4000&#34; height=&#34;2250&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+&lt;strong&gt;Background:&lt;/strong&gt; Aging has been defined as an accumulation of damage, or a loss of function, with increasing age. For bacteria, one strategy to cope with damage is asymmetric segregation of damage at division, so that the old pole cell inherits all of the damage and the new pole cell is rejuvenated. Another, often neglected, mechanism is to repair the damage and our previous computational modeling work has found that an optimal rate of repair is fitter than damage segregation in well-mixed environments. Here, we investigate aging in biofilms, the predominant mode of growth for bacteria, with the individual-based model iDynoMiCS. We introduced an adaptive repair strategy, with and without damage segregation, to the previously used damage segregation and fixed optimal repair strategies. These are investigated in a constant environment, a chemostat, and in biofilms and the damage is considered to be either toxic or inert.&lt;/br&gt;&lt;/br&gt;
+&lt;strong&gt;Results:&lt;/strong&gt; In the constant environment, symmetric division combined with fixed optimal repair was the fittest strategy for toxic damage, and adaptive repair with segregation of damage was fittest for inert damage. In the chemostat, symmetric division combined with adaptive repair was the fittest strategy. For biofilms, the fittest strategy depended upon the initial spatial distribution of cells. Where cells of competing strategies were placed in two side-by-side blocks, asymmetric damage segregation without repair was the fittest strategy. Where cells were placed in an alternating manner, the fittest strategy was symmetric optimal fixed repair.&lt;/br&gt;&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Conclusions:&lt;/strong&gt; Adaptive repair was not always the fittest strategy, as was expected, because the model did not allow protein previously allocated to repair machinery to be redistributed to growth machinery even when repair was no longer beneficial, therefore hindering growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aging of bacteria in biofilms, using an Individual-based model to study growth</title>
+      <link>https://R-Wright-1.github.io/post/talk2_microsoc/</link>
+      <pubDate>Thu, 06 Jun 2013 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk2_microsoc/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Poster and flash presentation (3 mins)&lt;/em&gt;&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hu173234095787689be6b5a7db5f9111fc_8725598_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hu173234095787689be6b5a7db5f9111fc_8725598_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4000&#34; height=&#34;2250&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2&gt;Submitted abstract&lt;/h2&gt;&lt;/br&gt;
+Aging has been defined as an accumulation of damage, or a loss of function, with increasing age. For bacteria, one strategy to cope with damage is asymmetric segregation of damage at division, so that the old pole cell inherits all of the damage, and the new pole cell is rejuvenated. Another, often neglected, mechanism is to repair the damage; our previous computational modeling work has found that an optimal rate of repair is fitter than damage segregation in well-mixed environments. Here, we investigate aging in biofilms, the predominant mode of growth for bacteria, with the individual-based model iDynoMiCS. We introduced adaptive repair, with and without damage segregation, to the previously used damage segregation and fixed optimal repair strategies. These are investigated in a constant environment, a chemostat, and in biofilms.&lt;/br&gt;&lt;/br&gt;
+In the constant environment, symmetric division combined with fixed optimal repair was the fittest strategy. In the chemostat, symmetric division combined with adaptive repair was the fittest strategy. For biofilms, the fittest strategy depended upon the initial placement of cells. Where cells of competing strategies were placed in two side-by-side blocks, asymmetric damage segregation without repair was the fittest strategy. Where cells were placed in an alternating manner, the fittest strategy was symmetric optimal fixed repair. &lt;/br&gt;&lt;/br&gt;
+Adaptive repair was not always the fittest strategy, as was expected, because the model did not allow protein previously allocated to repair machinery to be redistributed to growth machinery even when repair was no longer beneficial, therefore hindering growth.
+</description>
+    </item>
+    
+  </channel>
+</rss>

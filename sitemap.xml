@@ -3,72 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://R-Wright-1.github.io/post/talk11_microsoc2/</loc>
-    <lastmod>2020-05-06T23:25:17-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/</loc>
-    <lastmod>2020-05-06T23:25:17-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk10_microsoc/</loc>
-    <lastmod>2020-05-06T23:25:11-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk9_sls/</loc>
-    <lastmod>2020-05-06T23:25:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk8_mmeg/</loc>
-    <lastmod>2020-05-06T23:24:51-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk7_micro2018/</loc>
-    <lastmod>2020-05-06T23:24:43-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk6_mba/</loc>
-    <lastmod>2020-05-06T23:24:36-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk5_imdc/</loc>
-    <lastmod>2020-05-06T23:24:03-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk4_mmeg/</loc>
-    <lastmod>2020-05-06T23:23:53-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk3_wmg/</loc>
-    <lastmod>2020-05-06T23:23:37-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/talk2_microsoc/</loc>
-    <lastmod>2020-05-06T23:23:19-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://R-Wright-1.github.io/post/publ7_metaanalysis/</loc>
     <lastmod>2020-05-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://R-Wright-1.github.io/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <loc>https://R-Wright-1.github.io/post/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://R-Wright-1.github.io/talk/</loc>
+    <loc>https://R-Wright-1.github.io/tag/publication/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/tags/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/tag/view-online/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,6 +39,11 @@
   
   <url>
     <loc>https://R-Wright-1.github.io/publication/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/talk/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,37 +78,62 @@
   </url>
   
   <url>
+    <loc>https://R-Wright-1.github.io/post/talk11_microsoc2/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk10_microsoc/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/tag/talk/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk9_sls/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk8_mmeg/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk7_micro2018/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk6_mba/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk5_imdc/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk4_mmeg/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://R-Wright-1.github.io/post/talk1_iscb/</loc>
-    <lastmod>2016-12-06T23:22:55-06:00</lastmod>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk2_microsoc/</loc>
+    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/publ0_chagos/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/tag/microplastics/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/tag/plastics/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/tag/pollutant-concentrations/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/tag/publication/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/tags/</loc>
     <lastmod>2020-05-06T21:58:12-06:00</lastmod>
   </url>
   

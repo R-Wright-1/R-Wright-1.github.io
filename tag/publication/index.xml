@@ -1,16 +1,244 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>publication | Academic</title>
+    <title>Publication | Academic</title>
     <link>https://R-Wright-1.github.io/tag/publication/</link>
       <atom:link href="https://R-Wright-1.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2013 21:58:12 -0600</lastBuildDate>
+    <description>Publication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 21:58:12 -0600</lastBuildDate>
     <image>
       <url>https://R-Wright-1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>publication</title>
+      <title>Publication</title>
       <link>https://R-Wright-1.github.io/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere</title>
+      <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
+      <pubDate>Wed, 06 May 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: Submitted&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>A multi-OMIC characterization of biodegradation and microbial community succession within the PET Plastisphere</title>
+      <link>https://R-Wright-1.github.io/post/publ6_pet/</link>
+      <pubDate>Mon, 06 Apr 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ6_pet/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: In preparation&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marine plastic debris - a new surface for microbial colonization</title>
+      <link>https://R-Wright-1.github.io/post/publ5_perspectives/</link>
+      <pubDate>Fri, 06 Mar 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ5_perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: Under revision&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Damage repair versus aging in an individual-based model of biofilms</title>
+      <link>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</link>
+      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: January 2020 (Preprint)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Plasticizer Degradation by Marine Bacterial Isolates: A Proteogenomic and Metabolomic Characterization</title>
+      <link>https://R-Wright-1.github.io/post/publ3_plasticizer/</link>
+      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ3_plasticizer/</guid>
+      <description>&lt;p&gt;Published: &lt;em&gt;January 2020&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Environmental Science and Technology&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+Plasticizers are chemicals that are added to plastics during manufacturing in order to improve the physical properties of that plastics (for example, they give plastics their plasticity and flexibility) and in some plastics up to 50% of the weight of the plastic can be made up of these chemicals. Many of these chemicals are toxic enough to cause death at high concentrations, but even at much lower concentrations they cause a range of harmful effects, including having endocrine-disrupting effects (chemicals that mimic or interfere with hormones) or causing cancers and mutations. Because they aren&#39;t chemically bound to the plastics they can leach out of the plastics where they become available not only to the environment but also to microbes that might be able to degrade them. Lots of previous studies have looked at how microbes degrade plasticizers on land, and some studies had seen that they were also degraded in the oceans, but no one had previously looked at &lt;em&gt;how&lt;/em&gt; they were degraded in the marine environment.&lt;/br&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-plasticizers-are-toxic-chemicals-that-may-make-up-to-50-of-plastics-by-weight-and-they-can-leach-into-the-environment&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/leach_hu765d4e254fb900f937a533451c6d5f07_768233_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Plasticizers are toxic chemicals that may make up to 50% of plastics (by weight) and they can leach into the environment.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/leach_hu765d4e254fb900f937a533451c6d5f07_768233_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Plasticizers are toxic chemicals that may make up to 50% of plastics (by weight) and they can leach into the environment.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+We chose to work mainly with two really toxic plasticizers (dibutyl phthalate and di(2-ethyl hexyl) phthalate, abbreviated to DBP and DEHP) that together make up approximately 65% of the plasticizer market, and a third plasticizer (acetyl tributyl citrate, ATBC) that is widely stated to be a good alternative to the toxic plasticizers because it is biodegradable, however, we actually couldn&#39;t find any study that showed that it was degraded. The DBP and DEHP (called phthalic acid ester plasticizers) are very structurally similar to one another as they both have a central ring structure (called phthalic acid, highlighted in red below), but their side chains (called esters, made up of carbon and hydrogen) are different lengths. The ATBC is very similar to citric acid, but - like the other two - also has ester side chains. So what we were interested in finding out was whether the DBP and DEHP would both be degraded in the same way - because they are structurally similar - and also whether the ATBC was &lt;em&gt;actually&lt;/em&gt; biodegradable.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-chemical-structures-of-the-three-main-plasticizers-that-we-used&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/structures_hu413d38b8085c00544bd05ba303f61ccf_394290_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Chemical structures of the three main plasticizers that we used.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/structures_hu413d38b8085c00544bd05ba303f61ccf_394290_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1869&#34; height=&#34;449&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Chemical structures of the three main plasticizers that we used.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We collected some plastics from the ocean and isolated 42 bacteria that could grow using one or more of six common plasticizers. We narrowed down these 42 bacteria - first to ten that showed strong growth on one or more of the plasticizers, and then to two bacteria that could degrade all three of the plasticizers. So that we could find out more about the species that these bacteria were as well as the enzymes (molecules that act as biological catalysts) that they were capable of producing, we got the genomes (all of the genetic material - the DNA - of an organism) of these bacteria sequenced. We found out that these bacteria were closely related to the bacterial species &lt;em&gt;Halomonas campaniensis&lt;/em&gt; and &lt;em&gt;Mycobacterium houstonense&lt;/em&gt; but were not quite identical, so we named them &lt;em&gt;Halomonas&lt;/em&gt; sp. ATBC28 and &lt;em&gt;Mycobacterium&lt;/em&gt; sp. DBP42 (after the plasticizers that we first found they could grow with). We grew both of the bacteria with all three plasticizers, and tracked how much they grew as well as how much of the plasticizers they used up. To measure the growth, we used measurements of how much light can pass through the liquid cultures, called absorbance measurements - the higher the measurements, the more bacterial cells there are (and the less light can pass through). To track how much of the plasticizers were used up, we measured the concentration of these in the cultures at the end of the experiment, in cultures with and without bacteria and with and without the plasticizer added (see Figure 1 below).
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-1-from-the-paper-shows-bacterial-growth-on-the-plasticizers-top-row-as-well-as-a-control-labile-substrate-that-we-knew-they-would-be-able-to-grow-with-the-bottom-row-shows-the-concentration-of-the-plasticizers-at-the-end-of-the-experiment-in-cultures-with-no-bacteria-added-no-inoc-and-in-cultures-with--and-without---the-plasticizers-added&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/Figure%201_hua1554662bf861eeb679dfbd9cec2698b_565259_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Figure 1 (from the paper) shows bacterial growth on the plasticizers (top row) as well as a control (labile substrate) that we knew they would be able to grow with. The bottom row shows the concentration of the plasticizers at the end of the experiment, in cultures with no bacteria added (No inoc) and in cultures with (&amp;#43;) and without (-) the plasticizers added.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/Figure%201_hua1554662bf861eeb679dfbd9cec2698b_565259_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4792&#34; height=&#34;3217&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 1 (from the paper) shows bacterial growth on the plasticizers (top row) as well as a control (labile substrate) that we knew they would be able to grow with. The bottom row shows the concentration of the plasticizers at the end of the experiment, in cultures with no bacteria added (No inoc) and in cultures with (+) and without (-) the plasticizers added.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+Now that we were sure that both bacteria could grow with the plasticizers, we wanted to know &lt;em&gt;how&lt;/em&gt; they were growing with the plasticizers - what were the enzymes that they were using, and what chemicals were produced as intermediates in this degradation? To do this, we again grew the bacteria with the plasticizers, but this time, at the end of the experiment, we took the whole cultures and separated them to the cells and the liquid.  We then used a method called proteomics to look at all of the proteins - or enzymes - and a method called metabolomics to look at all of the chemical intermediates (metabolites) that were produced by the bacteria. So that we can see what they produce anyway during growth and what is produced due to the plasticizers, we also look at the proteins and metabolites when we grow the bacteria without the plasticizers but with something that we know they can grow with, for example, glucose (called a positive control) and also without the plasticizers or anything else (called a negative control - we expect no growth). From this, we were able to reconstruct the enzymes and pathways that were used by both bacteria to grow on the plasticizers, and from this we produced Figure 2 in the study.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-figure-2-from-the-paper-showing-all-enzymes-and-pathways-that-are-used-by-both-bacteria-for-the-degradation-of-dbp-dehp-and-atbc&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/Figure%202_huf2968a3749ed2c43f74cfc58559bc134_1184851_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Figure 2 (from the paper), showing all enzymes and pathways that are used by both bacteria for the degradation of DBP, DEHP and ATBC.&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ3_plasticizer/Figure%202_huf2968a3749ed2c43f74cfc58559bc134_1184851_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2999&#34; height=&#34;2076&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Figure 2 (from the paper), showing all enzymes and pathways that are used by both bacteria for the degradation of DBP, DEHP and ATBC.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+What this complicated figure is telling us, is that the bacteria use a series of different enzymes for degrading these plasticizers, and they produce a range of different chemical intermediates. I won&amp;rsquo;t talk through the whole figure, but as an example, we found that both ATBC and DBP initially have the side chains sequentially removed - this eventually produces citrate (for ATBC) and phthalate (also called phthalic acid, for DBP) as well as three butanols for ATBC and two butanols for DBP. When the names of the chemical intermediates are coloured in either blue or orange, this tells us that we detect these chemicals in the cultures of &lt;em&gt;Mycobacterium&lt;/em&gt; sp. DBP42 and &lt;em&gt;Halomonas&lt;/em&gt; sp. ATBC28, respectively, and the red to blue colour scale (fold change in the legend) tells us how much more abundant the enzymes that are capable of each conversion step are in the cultures of each of the bacteria with each of the plasticizers, with dark red showing that they are at least 10 times more abundant, and dark blue that they are at least 10 times less abundant than in the positive control. There are some steps that we weren&amp;rsquo;t able to detect both the chemical intermediate and the enzymes that could be used for this conversion, and for some of these we&amp;rsquo;ve predicted what we think is happening and the enzymes that could be used for this based on what we already know about these reactions and on the enzymes that are present in the genome - because most of the methods used in science aren&amp;rsquo;t perfect, quite often we aren&amp;rsquo;t able to detect certain chemicals or enzymes. It could be that these are very short-lived - being used up almost as soon as they are produced - or they might be present at concentrations, or abundances, that are lower than what we are able to detect. &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;So overall, what this showed us was that all three plasticizers are being degraded by our two bacteria, and we were able to determine the enzymes and pathways that they were using to do so. Importantly, the biodegradable plasticizer, ATBC, is actually biodegradable, although it is interesting to point out here that with the 42 bacteria that we initially isolated, fewer were able to grow with ATBC than either DBP or DEHP. We weren&amp;rsquo;t really sure why this was, but we think it&amp;rsquo;s possible that because ATBC has only been used more recently, bacteria in the environment have had less time to evolve pathways to degrade it (whereas the DBP and DEHP have been used for longer but are also very similar to chemicals found in crude oil).  We were also interested to find that the bacteria seemed to use different pathways for the degradation of DBP and DEHP - for DBP, the side chains are removed, producing phthalate, and then this enters a well-known degradation pathway, but for DEHP we didn&amp;rsquo;t find any phthalate, which suggests that the side chains aren&amp;rsquo;t being removed. We detected a lot of enzymes that are probably able to act directly on the side chains (without them first being removed), and it might be that because these side chains are longer, they are too long to be removed in the same way as for DBP, or that a specific chemical intermediate is needed to trigger the bacteria to remove the side chains, and this doesn&amp;rsquo;t happen with DEHP. &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;We know that chemicals, such as plasticizers, are likely to be leached into the environment surrounding plastics when they enter the environment. The microbial biofilms that grow on plastics will be the first to encounter these chemicals, and we have now been able to show that these bacteria are capable of degrading them and hopefully reducing their release into the surrounding environment.&lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;The full paper can be downloaded or viewed online using one of the links at the top of this page. There is also a link to view the issue of &lt;em&gt;Environmental Science and Technology&lt;/em&gt; that this paper appears in, for which this paper was used for the cover.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Early Colonization of Weathered Polyethylene by Distinct Bacteria in Marine Coastal Seawater</title>
+      <link>https://R-Wright-1.github.io/post/publ2_weath_colo/</link>
+      <pubDate>Tue, 06 Aug 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ2_weath_colo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: August 2019&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding microbial community dynamics to improve optimal microbiome selection</title>
+      <link>https://R-Wright-1.github.io/post/publ1_chi_selec/</link>
+      <pubDate>Thu, 06 Jun 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ1_chi_selec/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: June 2019&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Contaminants, Pollution and Potential Anthropogenic Impacts in Chagos/BIOT</title>
@@ -41,10 +269,10 @@ This study collected and analysed a number of samples taken from the Chagos Arch
 &lt;figure id=&#34;figure-the-chagos-archipelago-figure-212b&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ0_chagos/chagos_hu010f39fc9e31f69c2e53dfe371a143a5_1853309_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The Chagos Archipelago (Figure 21.2b)&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ0_chagos/featured_hu010f39fc9e31f69c2e53dfe371a143a5_1853309_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The Chagos Archipelago (Figure 21.2b)&#34;&gt;
 
 
-  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ0_chagos/chagos_hu010f39fc9e31f69c2e53dfe371a143a5_1853309_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1310&#34; height=&#34;984&#34;&gt;
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ0_chagos/featured_hu010f39fc9e31f69c2e53dfe371a143a5_1853309_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1310&#34; height=&#34;984&#34;&gt;
 &lt;/a&gt;
 
 
