@@ -5,7 +5,7 @@
     <link>https://R-Wright-1.github.io/</link>
       <atom:link href="https://R-Wright-1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://R-Wright-1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -13,27 +13,99 @@
     </image>
     
     <item>
+      <title>Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere</title>
+      <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
+      <pubDate>Wed, 06 May 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: Submitted&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
       <title>CV</title>
-      <link>https://R-Wright-1.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://R-Wright-1.github.io/cv/</guid>
+      <link>https://R-Wright-1.github.io/curriculum/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://R-Wright-1.github.io/curriculum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>https://R-Wright-1.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
       <guid>https://R-Wright-1.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Summaries</title>
-      <link>https://R-Wright-1.github.io/summaries/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://R-Wright-1.github.io/summaries/</guid>
-      <description></description>
+      <title>A multi-OMIC characterization of biodegradation and microbial community succession within the PET Plastisphere</title>
+      <link>https://R-Wright-1.github.io/post/publ6_pet/</link>
+      <pubDate>Mon, 06 Apr 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ6_pet/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: In preparation&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Marine plastic debris - a new surface for microbial colonization</title>
+      <link>https://R-Wright-1.github.io/post/publ5_perspectives/</link>
+      <pubDate>Fri, 06 Mar 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ5_perspectives/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: Under revision&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Damage repair versus aging in an individual-based model of biofilms</title>
+      <link>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</link>
+      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: January 2020 (Preprint)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Plasticizer Degradation by Marine Bacterial Isolates: A Proteogenomic and Metabolomic Characterization</title>
+      <link>https://R-Wright-1.github.io/post/publ3_plasticizer/</link>
+      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ3_plasticizer/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: January 2020&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Early Colonization of Weathered Polyethylene by Distinct Bacteria in Marine Coastal Seawater</title>
+      <link>https://R-Wright-1.github.io/post/publ2_weath_colo/</link>
+      <pubDate>Tue, 06 Aug 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ2_weath_colo/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: August 2019&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+I will soon be posting a summary of this paper here</description>
+    </item>
+    
+    <item>
+      <title>Understanding microbial community dynamics to improve optimal microbiome selection</title>
+      <link>https://R-Wright-1.github.io/post/publ1_chi_selec/</link>
+      <pubDate>Thu, 06 Jun 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ1_chi_selec/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: June 2019&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contaminants, Pollution and Potential Anthropogenic Impacts in Chagos/BIOT</title>
+      <link>https://R-Wright-1.github.io/post/publ0_chagos/</link>
+      <pubDate>Thu, 06 Jun 2013 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ0_chagos/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Date published: 2013&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
