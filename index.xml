@@ -13,13 +13,23 @@
     </image>
     
     <item>
+      <title>Plastic oceans – can microbes clean up our mess?</title>
+      <link>https://R-Wright-1.github.io/post/talk3_wmg/</link>
+      <pubDate>Wed, 06 May 2020 23:23:37 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/talk3_wmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere</title>
       <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
       <pubDate>Wed, 06 May 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: Submitted&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;Na&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Submitted&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
-I will soon be posting a summary of this paper here</description>
+I will post a summary of this paper when it is published.</description>
     </item>
     
     <item>
@@ -61,7 +71,9 @@ I will soon be posting a summary of this paper here</description>
       <link>https://R-Wright-1.github.io/post/publ5_perspectives/</link>
       <pubDate>Fri, 06 Mar 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ5_perspectives/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: Under revision&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;NA&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Under review for Environmental Science and Technology&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 </description>
     </item>
@@ -71,9 +83,15 @@ I will soon be posting a summary of this paper here</description>
       <link>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</link>
       <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: January 2020 (Preprint)&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;January 2020&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Preprint (under revision for mSystems)&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
-I will soon be posting a summary of this paper here</description>
+I will soon be posting a summary of this paper here
+&lt;h2&gt;Abstract&lt;/h2&gt;
+The extent of senescence due to damage accumulation (or aging) is evidently evolvable as it varies hugely between species and is not universal, suggesting that its fitness advantages depend on life history and environment. In contrast, repair of damage is present in all organisms studied. Repair and segregation of damage have not always been considered as alternatives, despite the fundamental trade-off between investing resources into repair or growth. For unicellular organisms, unrepaired damage could be divided asymmetrically between daughter cells, leading to aging of one and rejuvenation of the other. Repair of unicells has been shown to be advantageous in well-mixed environments such as chemostats. However, most microorganisms live in spatially structured systems such as biofilms with gradients of environmental conditions and cellular physiology as well as clonal population structure. We asked whether this clonal structure might favor aging by damage segregation as this can be seen as a division of labor strategy, akin to the germline soma division in multicellular organisms. We used an individual-based model with a newly developed adaptive repair strategy where cells respond to their current intracellular damage levels by investing into repair machinery accordingly. We found that the new adaptive repair strategy was advantageous whenever efficient and optimal, both in biofilms and chemostats. Thus, biofilms do not favor a germline soma-like division of labor between daughter cells in terms of damage segregation. We suggest that damage segregation is only beneficial when active and effective, extrinsic mortality is high and a degree of multicellularity is present.&lt;/br&gt;&lt;/br&gt;
+&lt;h3&gt;Importance&lt;/h3&gt;
+Damage is an inevitable consequence of life, leading to a trade-off between allocating resources into damage repair or into growth whilst allowing aging, i.e., segregation of damage upon cell division. Few studies considered repair as an alternative to aging. Moreover, all previous studies merely considered well-mixed environments, although the vast majority of unicellular organisms live in spatially structured environments, exemplified by biofilms, and fitness advantages in well-mixed systems often turn into disadvantages in spatially structured systems. We compared the fitness consequences of aging versus damage repair in biofilms with an individual-based model implementing an adaptive repair mechanism based on sensing damage. We found that aging is not beneficial. Instead, it is useful as a stress response to deal with damage that failed to be repaired when (i) clearly asymmetric cell division is feasible; (ii) extrinsic mortality is high; and (iii) a degree of multicellularity is present.</description>
     </item>
     
     <item>
@@ -81,7 +99,13 @@ I will soon be posting a summary of this paper here</description>
       <link>https://R-Wright-1.github.io/post/publ3_plasticizer/</link>
       <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ3_plasticizer/</guid>
-      <description>&lt;p&gt;Published: &lt;em&gt;January 2020&lt;/em&gt;
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;files/publ3.pdf&#34;&gt;Download paper&lt;/a&gt;    
+&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://pubs.acs.org/doi/10.1021/acs.est.9b05228&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;    
+&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://pubs.acs.org/toc/esthag/54/4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View issue online&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Published: &lt;em&gt;January 2020&lt;/em&gt;
 &lt;/br&gt;
 In: &lt;em&gt;Environmental Science and Technology&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
@@ -161,7 +185,7 @@ We chose to work mainly with two really toxic plasticizers (dibutyl phthalate an
 
 &lt;/figure&gt;
 
-&lt;p&gt;We collected some plastics from the ocean and isolated 42 bacteria that could grow using one or more of six common plasticizers. We narrowed down these 42 bacteria - first to ten that showed strong growth on one or more of the plasticizers, and then to two bacteria that could degrade all three of the plasticizers. So that we could find out more about the species that these bacteria were as well as the enzymes (molecules that act as biological catalysts) that they were capable of producing, we got the genomes (all of the genetic material - the DNA - of an organism) of these bacteria sequenced. We found out that these bacteria were closely related to the bacterial species &lt;em&gt;Halomonas campaniensis&lt;/em&gt; and &lt;em&gt;Mycobacterium houstonense&lt;/em&gt; but were not quite identical, so we named them &lt;em&gt;Halomonas&lt;/em&gt; sp. ATBC28 and &lt;em&gt;Mycobacterium&lt;/em&gt; sp. DBP42 (after the plasticizers that we first found they could grow with). We grew both of the bacteria with all three plasticizers, and tracked how much they grew as well as how much of the plasticizers they used up. To measure the growth, we used measurements of how much light can pass through the liquid cultures, called absorbance measurements - the higher the measurements, the more bacterial cells there are (and the less light can pass through). To track how much of the plasticizers were used up, we measured the concentration of these in the cultures at the end of the experiment, in cultures with and without bacteria and with and without the plasticizer added (see Figure 1 below).
+&lt;p&gt;We collected some plastics from the ocean and isolated 42 bacteria that could grow using one or more of six common plasticizers. We narrowed down these 42 bacteria - first to ten that showed strong growth on one or more of the plasticizers, and then to two bacteria that could degrade all three of the plasticizers. So that we could find out more about the species that these bacteria were as well as the enzymes (molecules that act as biological catalysts - all enzymes are proteins, but not all proteins are enzymes) that they were capable of producing, we got the genomes (all of the genetic material - the DNA - of an organism) of these bacteria sequenced. We found out that these bacteria were closely related to the bacterial species &lt;em&gt;Halomonas campaniensis&lt;/em&gt; and &lt;em&gt;Mycobacterium houstonense&lt;/em&gt; but were not quite identical, so we named them &lt;em&gt;Halomonas&lt;/em&gt; sp. ATBC28 and &lt;em&gt;Mycobacterium&lt;/em&gt; sp. DBP42 (after the plasticizers that we first found they could grow with). We grew both of the bacteria with all three plasticizers, and tracked how much they grew as well as how much of the plasticizers they used up. To measure the growth, we used measurements of how much light can pass through the liquid cultures, called absorbance measurements - the higher the measurements, the more bacterial cells there are (and the less light can pass through). To track how much of the plasticizers were used up, we measured the concentration of these in the cultures at the end of the experiment, in cultures with and without bacteria and with and without the plasticizer added (see Figure 1 below).
 
 
 
@@ -249,8 +273,90 @@ What this complicated figure is telling us, is that the bacteria use a series of
       <link>https://R-Wright-1.github.io/post/publ2_weath_colo/</link>
       <pubDate>Tue, 06 Aug 2019 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ2_weath_colo/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: August 2019&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;August 2019&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Microbial Ecology&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
+When plastics enter the oceans, they are rapidly colonised by a diverse community of microbes - termed the &#34;Plastisphere&#34;. Research to date has not shown that different plastic types exert a strong effect on determining the composition of the Plastisphere, as would be expected if the colonising microbes were capable of degrading these plastics. When plastics enter the environment, they are usually acted upon by UV radiation, which starts the weathering process - if you have ever found that pieces of plastic on a beach are brittle, then this is because they have been weathered. In terms of the chemical structure of a plastic, the weathering breaks down the very long polymer chains into shorter chains that should be more accessible to bacteria. In this study, we wanted to find out: would any potential plastic degraders  colonise plastics in the ocean? Did these potential plastic degraders change in abundance over time? Was there a difference between the microbial communities that colonise weathered or non-weathered plastics and glass?&lt;/br&gt;&lt;/br&gt;
+&lt;p&gt;In order to find this out, we incubated pieces of polyethylene (PE) plastics that were pre-weathered or non-weathered (as well as pieces of glass as a positive control) just off the coast of Mallorca (Spain) and characterised the microbial communities colonising these plastics after two and nine days of incubation. To characterise the bacteria in these communities, we sequenced the 16S rRNA gene (see my post on &amp;ldquo;Understanding microbial community dynamics to improve optimal microbiome selection&amp;rdquo; for further explanation of this).&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-our-study-site-the-plastics-were-tied-up-just-underneath-the-water-here&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ2_weath_colo/site_hue960db62cb2c10f612e99711cb97d98e_3372693_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Our study site (the plastics were tied up just underneath the water here)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ2_weath_colo/site_hue960db62cb2c10f612e99711cb97d98e_3372693_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Our study site (the plastics were tied up just underneath the water here)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We found that bacteria within the &lt;em&gt;Oleiphilus&lt;/em&gt; genus - potential plastic degraders - made up almost 6 and 4% of the bacterial communities on weathered and non-weathered PE, respectively, on the second day of incubation (&lt;em&gt;vs&lt;/em&gt; 0.6% on glass controls), but had decreased in abundance to below 0.3% on all materials by day nine (see below). We also found that there were several species of bacteria that showed a strong preference for the weathered PE during early colonisation stages (day two), for example members of the &lt;em&gt;Roseobacter&lt;/em&gt; and &lt;em&gt;Aestuariibacter&lt;/em&gt; groups (27 and 2% of the community, respectively), possibly because they are capable of growth using the short polymer chains generated from weathering.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-abundance-of-different-groups-of-bacteria-on-day-two-emvsem-day-nine-figure-4-of-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ2_weath_colo/Figure%204_hu9683433c38cd1ac73aa3942d2dab20d4_207115_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The abundance of different groups of bacteria on day two vs day nine (Figure 4 of the paper)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ2_weath_colo/Figure%204_hu9683433c38cd1ac73aa3942d2dab20d4_207115_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1124&#34; height=&#34;808&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The abundance of different groups of bacteria on day two &lt;em&gt;vs&lt;/em&gt; day nine (Figure 4 of the paper)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Overall, our results demonstrate that the Plastisphere can vary according to the weathering state of the material and that early colonising communities are enriched with bacteria that can potentially degrade the plastics. &lt;/br&gt;&lt;/br&gt;
+The full paper can be downloaded or viewed online using one of the links at the top of this page.&lt;/br&gt;
+This study was primarily carried out by Gabriel Erni-Cassola, and I carried out the sequencing of microbial communities.&lt;/p&gt;
 </description>
     </item>
     
@@ -259,8 +365,205 @@ What this complicated figure is telling us, is that the bacteria use a series of
       <link>https://R-Wright-1.github.io/post/publ1_chi_selec/</link>
       <pubDate>Thu, 06 Jun 2019 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ1_chi_selec/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: June 2019&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;June 2019&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Microbiome&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
+As many of you reading will know, one of my central PhD aims was to find out whether plastics are being degraded in the oceans. You will often hear that plastics could take hundreds of years to break down, and people are therefore increasingly looking to the microbes - and biodegradation of plastics - to find a solution to this problem. But if they take such a long time to break down, how can we look for the degradation of materials such as plastics - which are a type of polymer (a substance that has a molecular structure consisting of a large number of identical units bonded together)? In order to do that, we first needed to have a more labile (easier to degrade) polymer to understand degradation. We chose chitin - it is the most abundant natural polymer in the oceans (and second most abundant on earth, the most abundant is cellulose), it makes up the shells of organisms like crabs, shrimps and lobsters, and, most importantly for us, it is readily degraded by marine microbes and the enzymes (molecules that act as biological catalysts) used for this are already well characterised. Because we already know that chitin is degraded in the oceans, we wanted to find out whether we could do anything to speed up the degradation process and to look at the microbial communities that were doing this degradation: do they carry out this degradation at a constant rate? Do we have a whole community of chitin degraders? Do they work together, or are they competing with each other?&lt;/br&gt;&lt;/br&gt;
+&lt;p&gt;To try to speed up the chitin degradation, we applied the method of artificial selection - what we use to produce different species of dog, or improve the yield of crop plants - to whole microbial communities. To do this, we grew 30 different cultures of microbial communities with chitin as the only source of both carbon and nitrogen. After we have grown these communities for nine days, we measure the activity of chitinases (enzymes that degrade chitin). We then take the three communities with the highest chitinase activities (these should be the fastest at degrading the chitin) and combine them to inoculate another 30 cultures. This is repeated up to 20 times (which would be over 20 generations), and the aim is that at the end we should have microbial communities that are both fast and efficient at degrading chitin. So that we could compare this with a control, we also did this with a second set of 30 communities each time - this time, instead of taking the three communities with the highest chitinase activities, we just took three communities at random and used these to inoculate the next generation (this imitates natural selection). We call the set of communities where we take the highest chitinase activities the positive selection and the set where we take the three communities at random the random selection.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-depiction-of-the-artificial-selection-of-whole-microbial-communities-described-above-modified-from-figure-1-of-the-paper-for-an-article-that-i-wrote-for-the-biological-sciences-review-a-science-magazine-aimed-at-16-18-year-olds&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/selection_huf04c16ef3480d8e983a03619ed88161b_204643_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Depiction of the artificial selection of whole microbial communities, described above (modified from Figure 1 of the paper for an article that I wrote for the Biological Sciences Review, a science magazine aimed at 16-18 year olds)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/selection_huf04c16ef3480d8e983a03619ed88161b_204643_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1332&#34; height=&#34;935&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Depiction of the artificial selection of whole microbial communities, described above (modified from Figure 1 of the paper for an article that I wrote for the Biological Sciences Review, a science magazine aimed at 16-18 year olds)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To be able to compare our two treatments, we calculated the difference between our positive and random selections at each generation (each time we selected the three best communities). Intriguingly, we found that after a number of generations, we weren&amp;rsquo;t really seeing that the positive selection had higher chitinase activities than the random, and in fact, at a number of points, the random actually had higher chitinase activity than the positive selection (the green line in panel A of the below figure). In order to try to find out what was going, we measured the chitinase activity within a generation - within the nine days that we grow the communities for. In some preliminary work, we&amp;rsquo;d found that nine days was the optimal amount of time to grow my communities for, but we found that by generation 15, this optimal time had been reduced to four days (panel B in the below figure). We decided to carry on with the selection that grew communities for nine days between selection events, but to also grow communities for only four days between selection events for the remaining five generations (the orange line in panel A of the below figure). When we did this, we found that initially the chitinase activity increased in the positive selection, but by generation 20 the activity had again fallen below that of the random selection. When we checked the chitinase activity within the four days of incubation at generation 20, we found that the optimal incubation time had again been reduced - this time to two days (panel C of the below figure)!&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-chitinase-activity-that-we-measured-a-across-all-20-generations-b-within-generation-15-and-c-within-generation-20-figure-2-in-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%202_hu9f1ec17d009a255d3e1a61279d619b08_483866_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The chitinase activity that we measured (A) across all 20 generations, (B) within generation 15 and (C) within generation 20 (Figure 2 in the paper)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%202_hu9f1ec17d009a255d3e1a61279d619b08_483866_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4524&#34; height=&#34;2166&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The chitinase activity that we measured (A) across all 20 generations, (B) within generation 15 and (C) within generation 20 (Figure 2 in the paper)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Across the whole experiment, we had saved the DNA from each community - freezing it until we were ready to use it. So to try to figure out why the optimal incubation time kept being reduced, we sequenced all of the microbial communities. When we do this, we find out the sequence of an organisms&amp;rsquo; DNA - the order that the nucleotides (molecules that make up DNA) appear in - and we can use this to tell us about a specific gene that we&amp;rsquo;re interested in. In this case, we sequenced two genes - called the 16S and 18S rRNA genes - which have both evolved relatively slowly and are therefore highly conserved between closely related species. They can therefore be used to identify the microbes in our communities, with the 16S gene being used to identify bacteria and the 18S gene being used to identify the eukaryotes. When we know which species are in our communities, we can use this to predict how they might grow and what they might be capable of, based on what we know about other similar species. We process this data computationally and use it to see how abundant each species is in our community (by determining the relative abundance of the sequences that we have that are made up by each species). &lt;/br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;When we did this, we found that there were some very clear patterns within the four days of incubation, and the abundance of certain species was correlated with chitinase activity. The figure below shows us the bacteria (16S rRNA gene) and eukaryotes (18S rRNA gene) that are in our communities across these four days - each colour in panel B identifies a different species, with each species labelled &amp;lsquo;ASV&amp;rsquo; (this stands for amplicon sequence variant, but these numbers are just used as an identified) with the Latin name for the species that it is closest to shown next to this. Sometimes the DNA sequence that we get for a species is similar to more than one known organism, and in these cases we just show the lowest classification that we can for this. Panel A just shows a measure of the diversity of the communities. What we can see from this is that the 16S ASVs 3 and 4 (&lt;em&gt;Thalassotalea&lt;/em&gt; and Cellvibrionaceae) are very likely to be correlated with chitinase activity - we expect the measured activity to lag slightly behind the abundance of these organisms, and these two are very abundant on days one and two (activity is highest on days two and three) and then they decrease strongly in abundance on days three and four. At the same time, the 18S ASVs 1 and 2 (both &lt;em&gt;Cafeteria&lt;/em&gt;) increase strongly in abundance between days one and four.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-relative-abundance-of-bacteria-left-and-eukaryotes-right-across-four-days-of-incubation-at-generation-20-figure-3a-and-3b-in-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%203_hubda72c9d1927eace4a0950f96658911b_1267863_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Relative abundance of bacteria (left) and eukaryotes (right) across four days of incubation at generation 20 (Figure 3A and 3B in the paper)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%203_hubda72c9d1927eace4a0950f96658911b_1267863_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4255&#34; height=&#34;3573&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Relative abundance of bacteria (left) and eukaryotes (right) across four days of incubation at generation 20 (Figure 3A and 3B in the paper)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;These findings actually fit really nicely with what we already know about microbial community ecology - we often see an initial colonisation phase, characterised by an abundance of organisms that are just good at attaching to particles. We then see a selection phase, characterised by high abundances of organisms that are actually able to degrade the chitin, and then a succession phase, where these degraders are overtaken by cheaters, grazers and viruses. These &amp;ldquo;cheaters&amp;rdquo; would be the organisms that can&amp;rsquo;t degrade the chitin themselves, but are able to benefit from those that do by using the sub-products of the chitin degradation.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-microbial-community-succession-the-white-blobs-show-the-polymer-subunits&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/cheaters_hu787b23e0ddd4fd16580d18886cc25356_734281_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Microbial community succession (the white blobs show the polymer subunits)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/cheaters_hu787b23e0ddd4fd16580d18886cc25356_734281_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1977&#34; height=&#34;864&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Microbial community succession (the white blobs show the polymer subunits)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;To try to prove this a little more thoroughly, we isolated 20 bacteria from our communities. We found that our isolates that were most similar to 16S ASVs 3 and 4 were able to degrade chitin, while many of those that were abundant at on days three and four were only able to use the sub-products of chitin degradation (and some weren&amp;rsquo;t able to use these and would instead rely on the mix of other nutrients that are produced by communities. &lt;em&gt;Cafeteria&lt;/em&gt;, which is the organism that is closest to the 18S ASVs 1 and 2, is known to be a protist (single-celled organism that can swim around) that grazes on (eats) bacteria. We also did another experiment where we grew a &amp;ldquo;cheater&amp;rdquo; bacterium with a chitin degrader - without the chitin degrader, the cheater bacterium didn&amp;rsquo;t grow at all, but when the chitin degrader was present, the cheater was also able to grow.&lt;/p&gt;
+&lt;p&gt;So what does this mean for chitin degradation? The chitin activity didn&amp;rsquo;t actually increase very much across our whole experiment, so how do we select for better chitin degradation? What we&amp;rsquo;d found out so far is that the optimal incubation time kept changing. So we decided to carry out a new artificial selection experiment, where instead of incubating our communities for a fixed amount of time between generations (four or nine days), we measured the chitinase activity every day and selected the new communities once we had seen a peak in chitinase activity. We did this for 50 days, and found that this produced chitinase activities that were 90 times higher than in our first experiment (see below figure)!&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-the-improved-artificial-selection-method-figure-6-of-the-paper-showing-chitinase-activity-for-means-all-30-communities-and-highest-the-three-communities-with-the-highest-activity-that-are-used-to-inoculate-the-next-generation&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%206_hu03bf83e54958f078b2080c73699261c2_241681_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;The improved artificial selection method (Figure 6 of the paper), showing chitinase activity for means (all 30 communities) and highest (the three communities with the highest activity that are used to inoculate the next generation)&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ1_chi_selec/Figure%206_hu03bf83e54958f078b2080c73699261c2_241681_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;3480&#34; height=&#34;2309&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The improved artificial selection method (Figure 6 of the paper), showing chitinase activity for means (all 30 communities) and highest (the three communities with the highest activity that are used to inoculate the next generation)
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In this paper, we proved the validity of artificially selecting a natural microbial community to better degrade chitin, but highlighted the caveats for achieving this goal, which require a better understanding of the ecology of the system. We find that future artificial selection experiments should adjust selection incubation times to enzyme activity maxima to successfully evolve enhanced communities.&lt;/p&gt;
+&lt;p&gt;The full paper can be downloaded or viewed online using one of the links at the top of this page, along with a link to the preprint (an earlier version of this paper).&lt;/p&gt;
 </description>
     </item>
     
@@ -543,10 +846,10 @@ Approximately 8 million tons of plastics (synthetic polymers) are thought to ent
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu6d54ce58d245703ec581c60a094673b4_4047637_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu774aacce74cd15f197ca29ab39dabcce_2176385_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu6d54ce58d245703ec581c60a094673b4_4047637_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk5_imdc/featured_hu774aacce74cd15f197ca29ab39dabcce_2176385_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1331&#34; height=&#34;749&#34;&gt;
 &lt;/a&gt;
 
 
@@ -585,10 +888,10 @@ Up to 12.7 million tons of plastics (recalcitrant synthetic polymers) are though
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu6d54ce58d245703ec581c60a094673b4_4104074_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu774aacce74cd15f197ca29ab39dabcce_2187116_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu6d54ce58d245703ec581c60a094673b4_4104074_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2077&#34; height=&#34;1168&#34;&gt;
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk4_mmeg/featured_hu774aacce74cd15f197ca29ab39dabcce_2187116_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1331&#34; height=&#34;749&#34;&gt;
 &lt;/a&gt;
 
 
@@ -628,10 +931,10 @@ Up to 12.7 million tons of plastics are thought to enter the oceans every year. 
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hue376e9ca3a4c11ad48f65c1d34dd5be5_7383294_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hudb7f7c5da9a1fdc490806f4aa696c9b8_2999279_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hue376e9ca3a4c11ad48f65c1d34dd5be5_7383294_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4000&#34; height=&#34;2250&#34;&gt;
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk1_iscb/featured_hudb7f7c5da9a1fdc490806f4aa696c9b8_2999279_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2000&#34; height=&#34;1125&#34;&gt;
 &lt;/a&gt;
 
 
@@ -672,10 +975,10 @@ Up to 12.7 million tons of plastics are thought to enter the oceans every year. 
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hu173234095787689be6b5a7db5f9111fc_8725598_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hua6ac675e71d4dbb0a49b4ae89f0958e8_3308518_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hu173234095787689be6b5a7db5f9111fc_8725598_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;4000&#34; height=&#34;2250&#34;&gt;
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/talk2_microsoc/featured_hua6ac675e71d4dbb0a49b4ae89f0958e8_3308518_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;2000&#34; height=&#34;1125&#34;&gt;
 &lt;/a&gt;
 
 
@@ -694,7 +997,9 @@ Adaptive repair was not always the fittest strategy, as was expected, because th
       <link>https://R-Wright-1.github.io/post/publ0_chagos/</link>
       <pubDate>Thu, 06 Jun 2013 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ0_chagos/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Date published: 2013&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Published: &lt;em&gt;2013&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Coral Reefs of the World&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;&lt;/br&gt;
 This study collected and analysed a number of samples taken from the Chagos Archipelago (British Indian Ocean Territory) in order to determine the levels of a range of pollutants in this uninhabited Pacific Ocean Archipelago. I was involved with analysing sand samples sent from inhabited and uninhabited areas for their concentrations of Microplastics. We separated the Microplastics from the sand using density separation (the plastics float in hyper saline water, while the sand sinks) and then identified the plastic types using Fourier transform-Infrared (FT-IR) Spectroscopy. We found particles at all 20 sites, and these included a range of plastic types, such as nylon, polyethylene, polyester, polypropylene and rayon and the abundance of these particles (approximately 5 per 50 ml sand) was among the highest reported worldwide at that time.
 
@@ -735,6 +1040,14 @@ This study collected and analysed a number of samples taken from the Chagos Arch
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Summaries</title>
+      <link>https://R-Wright-1.github.io/summaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://R-Wright-1.github.io/summaries/</guid>
+      <description></description>
     </item>
     
   </channel>
