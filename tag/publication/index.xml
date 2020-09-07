@@ -5,7 +5,7 @@
     <link>https://R-Wright-1.github.io/tag/publication/</link>
       <atom:link href="https://R-Wright-1.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 21:58:12 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 21:58:12 -0600</lastBuildDate>
     <image>
       <url>https://R-Wright-1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publication</title>
@@ -13,59 +13,48 @@
     </image>
     
     <item>
-      <title>Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere</title>
-      <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
-      <pubDate>Wed, 06 May 2020 21:58:12 -0600</pubDate>
-      <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
-      <description>&lt;p&gt;&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233753&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 1&lt;/a&gt;    
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 2&lt;/a&gt;&lt;/br&gt;
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 3&lt;/a&gt;    
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233765&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 4&lt;/a&gt;&lt;/br&gt;
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12217682&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merged QIIME2 input files&lt;/a&gt;    
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QIIME2 intermediate and output files&lt;/a&gt;&lt;/br&gt;
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233192&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PICRUSt2 JGI genomes&lt;/a&gt;    
-&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227303&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All files created during analyses&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Published: &lt;em&gt;NA&lt;/em&gt;
-&lt;/br&gt;
-In: &lt;em&gt;Submitted&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Summary&lt;/h2&gt;
-It is now indisputable that plastics are ubiquitous and problematic in ecosystems globally, from the Arctic to the Antarctic and everywhere in-between. Many suggestions have been made about the role that biofilms colonizing plastics in the environment – commonly termed the “Plastisphere” – may play in the transportation and ecological impact of these plastics, and the beginning of the 2020’s marked almost a decade of Plastisphere research. Microbial members of the Plastisphere have been suggested to be capable of biodegrading plastics (or their toxic additives), carrying pathogenic organisms across ocean basins and facilitating the spread of antibiotic resistance genes. Currently, the different bioinformatic analyses employed by the ~50 Plastisphere studies means that they are not directly comparable, and it has therefore not previously been possible to draw large-scale conclusions on the factors driving the assembly and functioning of the Plastisphere. We performed a meta-analysis where we collected and re-analyzed all of the raw sequencing and metadata from these studies and were therefore able to thoroughly characterize the global Plastisphere in marine, aquatic, freshwater and terrestrial environments for the first time.&lt;/br&gt;&lt;/br&gt;
-&lt;p&gt;I will post a full summary of this paper when it has been peer reviewed and published.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>A multi-OMIC characterization of biodegradation and microbial community succession within the PET Plastisphere</title>
       <link>https://R-Wright-1.github.io/post/publ6_pet/</link>
-      <pubDate>Mon, 06 Apr 2020 21:58:12 -0600</pubDate>
+      <pubDate>Sun, 06 Sep 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ6_pet/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;ai ai-doi-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.1099/acmi.ac2019.po0168&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference abstract&lt;/a&gt;    &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Date published: In preparation&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 Recalcitrant polymers are widely distributed in the environment. This includes natural polymers, such as chitin, but also synthetic polymers, which are becoming increasingly abundant, and for which biodegradation is uncertain. Distribution of labour in microbial communities commonly evolves in nature, particularly for arduous processes, suggesting that a community may be better at degrading recalcitrant compounds than individual microorganisms. However, microbial communities typically go through distinct stages of community succession and efficient degraders are quickly replaced with cheaters and cross-feeders. Here we aimed to determine whether i) a marine microbial community may be capable of degrading the common packaging plastic poly(ethylene terephthalate) (PET) and whether we see microbial community succession on PET, ii) whether we can determine the pathways used for PET degradation by marine microbial isolates, and iii) if the community may be better able to degrade PET than the isolates. We incubated several different types of PET with the natural microbial community found colonising coastal marine debris, and characterised the microbial community succession across the incubation period. We show an enrichment of taxa that have previously been shown to be capable of the degradation of recalcitrant compounds, although the differences between communities growing with different substrates are most distinct at early successional stages. We were also able to identify that a microbial isolate, &lt;em&gt;Thioclava&lt;/em&gt; sp. BHET1, uses a similar pathway for PET degradation as other terrestrial bacteria, and that a second microbial isolate, &lt;em&gt;Bacillus&lt;/em&gt; sp. BHET2, may use a novel pathway for PET degradation. Results from FTIR analyses of PET incubated with both the microbial community and the isolates suggested that the both the community and the isolates could degrade PET, but there were more significant differences between the plastics incubated with the community and the control than either of the isolates and the control.&lt;/br&gt;&lt;/br&gt;
-&lt;p&gt;I will post a full summary of this paper when it has been peer reviewed and published.&lt;/p&gt;
+&lt;p&gt;I will post a full summary of this paper when it has been peer reviewed and published. You can also read 
+&lt;a href=&#34;https://microbiologysociety.org/our-work/75th-anniversary-a-sustainable-future/circular-economy/circular-economy-case-studies/the-pet-biodegrading-potential-of-the-plastisphere.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this short article&lt;/a&gt; that I wrote for the Microbiology Society about this research.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Marine plastic debris - a new surface for microbial colonization</title>
-      <link>https://R-Wright-1.github.io/post/publ5_perspectives/</link>
-      <pubDate>Fri, 06 Mar 2020 21:58:12 -0600</pubDate>
-      <guid>https://R-Wright-1.github.io/post/publ5_perspectives/</guid>
-      <description>&lt;p&gt;Published: &lt;em&gt;NA&lt;/em&gt;
+      <title>Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere</title>
+      <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
+      <pubDate>Sun, 06 Sep 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12923855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary file 1 (script used to produce analysis)&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233753&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 1&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12915317&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 2&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 3&lt;/a&gt;&lt;/br&gt;
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233762&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 4&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233765&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 5&lt;/a&gt;&lt;/br&gt;
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12217682&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Merged QIIME2 input files&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QIIME2 intermediate and output files&lt;/a&gt;&lt;/br&gt;
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227303&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All files created during analyses&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Published: &lt;em&gt;NA&lt;/em&gt;
 &lt;/br&gt;
-In: &lt;em&gt;Under review for Environmental Science and Technology&lt;/em&gt;&lt;/p&gt;
+In: &lt;em&gt;Submitted&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
-Plastics become rapidly colonised by microbes when released into marine environments. This microbial community - the Plastisphere - has sparked a number of scientific enquiries and generated a breadth of knowledge, which we bring together in this review. Besides providing a better understanding of community composition and biofilm development in marine ecosystems, we critically discuss current research on plastic biodegradation and the identification of potential pathogenic “hitchhikers” in the Plastisphere. &lt;/br&gt;&lt;/br&gt;
+It is now indisputable that plastics are ubiquitous and problematic in ecosystems globally. Many suggestions have been made about the role that biofilms colonizing plastics in the environment – termed the “Plastisphere” – may play in the transportation and ecological impact of these plastics. By collecting and re-analyzing all raw 16S rRNA gene sequencing and metadata from 35 studies we have performed the first meta-analysis of the Plastisphere in marine, freshwater, other aquatic (e.g. brackish or aquaculture) and terrestrial environments. We show that random forest models can be trained to differentiate between groupings of environmental factors as well as aspects of study design, but – crucially – also between plastics when compared with control biofilms and between different plastic types and community successional stages. Our meta-analysis confirms that potentially biodegrading Plastisphere members, the hydrocarbonoclastic Oceanospirillales and Alteromonadales are consistently more abundant in plastic than control biofilm samples across multiple studies and environments. This indicates the predilection of these organisms for plastics and confirms the urgent need for their ability to biodegrade plastics to be comprehensively tested. We also identified key knowledge gaps that should be addressed by future studies. Gaps include a lack of knowledge on the Plastisphere in the Southern hemisphere and the necessity to move away from phylogeny-based inference of metabolic capacities and perform conclusive testing for pathogenicity and virulence factors as well as plastic biodegrading ability within the Plastisphere.&lt;/br&gt;&lt;/br&gt;
 &lt;p&gt;I will post a full summary of this paper when it has been peer reviewed and published.&lt;/p&gt;
 </description>
     </item>
@@ -73,7 +62,7 @@ Plastics become rapidly colonised by microbes when released into marine environm
     <item>
       <title>Damage repair versus aging in an individual-based model of biofilms</title>
       <link>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</link>
-      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <pubDate>Sat, 05 Sep 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;ai ai-biorxiv-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;    
@@ -93,9 +82,207 @@ Damage is an inevitable consequence of life, leading to a trade-off between allo
     </item>
     
     <item>
+      <title>Marine plastic debris - a new surface for microbial colonization</title>
+      <link>https://R-Wright-1.github.io/post/publ5_perspectives/</link>
+      <pubDate>Fri, 04 Sep 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/publ5_perspectives/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;
+&lt;a href=&#34;files/publ5.pdf&#34;&gt;Download paper&lt;/a&gt;    
+&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://doi.org/10.1021/acs.est.0c02305&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;    &lt;/p&gt;
+&lt;p&gt;Published: &lt;em&gt;September 2020&lt;/em&gt;
+&lt;/br&gt;
+In: &lt;em&gt;Environmental Science and Technology&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+Plastics become rapidly colonized by microbes when released into marine environments. This microbial community - known as the Plastisphere - is made up of bacteria, single-celled algae, fungi as well as the larvae of macro-organisms and is at the interface between the plastics and their surrounding environment. The Plastisphere is the focus of more than 60 studies (and even more since we finished writing the paper!) so we reviewed the findings of these studies (as well as the methods used) in order to draw conclusions on what we know so far about the Plastisphere and so that we could identify key areas for future research to be focused.&lt;/br&gt;&lt;/br&gt;
+&lt;p&gt;We searched for all studies that mention the Plastisphere, the microbial community on plastics or microbial degradation of plastics in the marine environment, which gave us 66 studies (see below - this list was current in December 2019 when we started writing, but there are lots more now!). We summarised whether the studies: (i) were carried out in a lab or in the field; (ii) collected plastics that were already in the environment or looked at plastics that they&amp;rsquo;d put there themselves; (iii) characterised the microbial community using DNA sequencing or microscopy; (iv) had a control of another surface (biofilm; such as glass or wood), looked at the planktonic community or at the community associated with very small particles in the water; (v) looked at potential pathogens or genes for antimicrobial resistance; and (vi) looked at plastic biodegradation.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-an-overview-of-the-studies-that-we-reviewed-and-the-methods-that-they-used-figure-1-in-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/review_hu91be548f28de9f6196017560ad65c3a9_871371_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;An overview of the studies that we reviewed and the methods that they used (Figure 1 in the paper).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/review_hu91be548f28de9f6196017560ad65c3a9_871371_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;970&#34; height=&#34;1042&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An overview of the studies that we reviewed and the methods that they used (Figure 1 in the paper).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+We then used this to take a detailed look at the following questions:&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Is the Plastisphere actually distinct from the microbial community (biofilm) that forms on any other surface in the environment?&lt;/b&gt;&lt;/br&gt;
+All current research suggests that the answer to this is &amp;ldquo;yes&amp;rdquo;, but: (i) the strongest differences between materials occur at the very early stages of colonisation (and are strongly influenced by the availability of other chemicals on the plastics); (ii) environmental variables (such as temperature or salinity) have a larger influence on the community than plastic/surface type) and (iii) differences between materials are usually driven by rare members of the community. &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What &amp;ldquo;feeds&amp;rdquo; and shapes the Plastisphere?&lt;/b&gt;&lt;/br&gt;
+As with all life, the Plastisphere needs:&lt;/p&gt;
+&lt;li&gt;&lt;I&gt;Water:&lt;/I&gt; water is obviously not in short supply in the oceans (although it may be when plastics are washed up on the beach), but we don&#39;t yet know the effect on microbial communities when they move from rivers out to sea&lt;/li&gt;
+&lt;li&gt;&lt;I&gt;Nutrients:&lt;/I&gt; our preliminary evidence shows that plastics likely concentrate nutrients from the surrounding water, making them more accessible to microbial communities (or organisms that might eat the plastics, intentionally or not)&lt;/li&gt;
+&lt;li&gt;&lt;I&gt;Energy:&lt;/I&gt; on buoyant plastics in the surface waters of the ocean (photos zones), the Plastisphere likely gains its energy from photosynthesis, but other plastics sink to deeper layers that don&#39;t have enough light (aphotic zones) for photosynthesis. This might force the Plastisphere to get energy from degrading: (i) compounds from its surrounding environment; (ii) the biofilm itself; or (iii) the plastics or plastic additives. 
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-some-examples-of-buoyant-and-non-buoyant-plastics-a-and-the-hypothetical-movement-of-buoyant-red-and-non-buoyant-brown-plastics-when-they-enter-marine-environments-b-figure-3-in-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/energy_hua253f867f81b309fe7df0bea767e9555_985677_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Some examples of buoyant and non-buoyant plastics (A) and the hypothetical movement of buoyant (red) and non-buoyant (brown) plastics when they enter marine environments (B) (Figure 3 in the paper).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/energy_hua253f867f81b309fe7df0bea767e9555_985677_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1704&#34; height=&#34;914&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Some examples of buoyant and non-buoyant plastics (A) and the hypothetical movement of buoyant (red) and non-buoyant (brown) plastics when they enter marine environments (B) (Figure 3 in the paper).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;How does the Plastisphere change over time?&lt;/b&gt;&lt;/br&gt;
+Most (if not all) biofilms go through distinct stages of succession (see 
+&lt;a href=&#34;post/publ1_chi_selec&#34;&gt;my first paper&lt;/a&gt; for a more in-depth view of this!): (i) initial colonisation of the surface (usually by any microbes that are capable of attaching to the surface); (ii) selection for organisms that can degrade the surface; and (iii) succession, where the degraders are overtaken by &amp;ldquo;cheaters&amp;rdquo; and cross-feeders. When these stages occur will depend on a range of factors (temperature, light, nutrient availability, etc), but it appears that potential plastic biodegraders are abundant after just a few days and by just over one week these have been overtaken by other microbes.
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-biodegrading-microbes-bd-may-pioneer-the-colonisation-of-plastics-but-will-be-outcompeted-at-later-time-points-by-microbes-that-can-carry-out-photosynthesis-green-figure-4-in-the-paper&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/succession_hu8b19d941df4e990e0b4c6c506cabc7a0_377036_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Biodegrading microbes (BD) may pioneer the colonisation of plastics, but will be outcompeted at later time points by microbes that can carry out photosynthesis (green) (Figure 4 in the paper).&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/succession_hu8b19d941df4e990e0b4c6c506cabc7a0_377036_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;982&#34; height=&#34;390&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Biodegrading microbes (BD) may pioneer the colonisation of plastics, but will be outcompeted at later time points by microbes that can carry out photosynthesis (green) (Figure 4 in the paper).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Could the Plastisphere explain the unaccounted fraction of plastics?&lt;/b&gt;&lt;/br&gt;
+Numerous marine surveys have pointed at a 
+&lt;a href=&#34;https://www.sciencemag.org/news/2020/01/ninety-nine-percent-ocean-plastic-has-gone-missing#:~:text=Every%20year%2C%20we%20dump%208,the%20Great%20Pacific%20Garbage%20Patch.&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;missing 99%&#39;&lt;/a&gt; of plastics - a large disparity between the quantity of plastic predicted to have entered the environment and the amount found by monitoring studies. We had a quick look at calculating how much a buoyant plastic needs to be colonised before it would sink from the ocean surface, but we need more information before we can say whether the Plastisphere could &amp;lsquo;drag&amp;rsquo; these plastics down to the deep sea or whether they might oscillate, as we show in the figure above.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Do plastics select for biodegrading organisms in the environment?&lt;/b&gt; (Or are there biodegrading organisms present within the Plastisphere?)&lt;/br&gt;
+Lots of studies have suggested that there are microbes in the Plastisphere that are capable of plastic degradation, but so far this hasn&amp;rsquo;t been proven by anyone. To be able to answer this question, we need to focus research on: (i) using methods that actually &lt;em&gt;prove&lt;/em&gt; biodegradation (for example, some studies measure weight loss of the plastics, but it isn&amp;rsquo;t clear whether the plastics are actually being degraded or are just being broken up into smaller pieces); and (ii) determining the mechanisms behind plastic biodegradation for all plastics (which enzymes are used and which organisms possess these enzymes?)&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What effect does the Plastisphere have on the availability of plastic-bound chemicals?&lt;/b&gt;&lt;/br&gt;
+Plastics themselves are generally inert, but they are often associated with various chemicals that can be toxic - additives (those that are intentionally added during manufacturing) and contaminants (those that &amp;lsquo;stick&amp;rsquo; to the plastics once in the environment) (see my 
+&lt;a href=&#34;post/publ3_plasticizer&#34;&gt;previous paper&lt;/a&gt; for more on this!). Many of these chemicals are degraded by microbes, so does the Plastisphere reduce the toxicity of plastics? We need more information on this, but we hypothesise that plastics might act as hotspots of toxic chemical degradation.&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Do plastics disperse pathogens? Is it only plastics that do this?&lt;/b&gt;&lt;/br&gt;
+Several previous Plastisphere studies have reported that potentially pathogenic microbes are present on marine plastics. These often focus on the &lt;em&gt;Vibrio&lt;/em&gt; spp. bacteria, which are responsible for cholera (&lt;em&gt;Vibrio cholerae&lt;/em&gt;) and shellfish poisoning (&lt;em&gt;Vibrio vulnificus&lt;/em&gt;), but harmless species are also present in the water column and in some cases form beneficial relationships with some animals (like the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Aliivibrio_fischeri&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bioluminescent &lt;em&gt;Vibrio fischeri&lt;/em&gt;, a symbiont of the Hawaiian bobtail squid&lt;/a&gt;). We ask three main questions here: (i) Are these &lt;em&gt;potential&lt;/em&gt; pathogens indeed pathogenic? (ii) Do pathogens accumulate on plastics and are there plastic-specific pathogens? (iii) Do plastics act as vectors for pathogen dispersal? The methods currently used don&amp;rsquo;t allow us to differentiate between closely related pathogenic and non-pathogenic species, and - even if we assume that these potential pathogens are indeed pathogenic - there is not currently enough evidence to suggest that they are more abundant on plastics than on other materials (and may even be less abundant).&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What influence does the Plastisphere have on marine food webs?&lt;/b&gt;&lt;/br&gt;
+We are advocating for more studies to examine plastic-biofilm-environment interactions more closely, rather than simply plastic-environment interactions. Some studies have shown plastic &amp;lsquo;flavouring&amp;rsquo; - plastics exposed to seawater pick up chemicals that are used by foraging animals, and plastic ingestion is higher in animals that use these chemical cues than in those that don&amp;rsquo;t. Plastics with microbial biofilms also accumulate considerable amounts of nutrients, which might lead to different results in plastic ingestion studies than with pristine plastics (that are also not environmentally relevant). &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;We conclude that research so far has not demonstrated that Plastisphere communities differ starkly from other microbiofilms and - while plastics are pollutants to the environment - we caution against overstatements and the use of unrealistic concentrations and conditions to prove negative effects. We also suggest that the most important areas for future study are:&lt;/br&gt;&lt;/p&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;A thorough characterisation of Plastisphere biofilms&lt;/b&gt;&lt;/I&gt; - if we know the thickness, weight and density then this will help to make accurate predictions on the fate of plastics in the ocean&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Inclusion of relevant controls&lt;/b&gt;&lt;/I&gt; - to have a reliable indication of how different the communities on plastics really are from the communities on &lt;I&gt;e.g.&lt;/I&gt; glass or wood&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Evaluate different Plastisphere successional stages&lt;/b&gt;&lt;/I&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Look at the Plastisphere at different depths&lt;/b&gt;&lt;/I&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Use biofouled plastics for experiments&lt;/b&gt;&lt;/I&gt; (to better approximate natural conditions)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Use environmentally relevant concentrations of plastics in studies&lt;/b&gt;&lt;/I&gt; (frequently plastics studies use far higher concentrations of plastics than are actually found, so - in most cases - we don&#39;t know whether the concentration of plastics that is actually &lt;I&gt;in the environment&lt;/I&gt; has any negative effects on wildlife or humans)&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;&lt;I&gt;Prioritise the identification of mechanisms for the biodegradation of plastics and whether potential pathogens are really pathogenic&lt;/b&gt;&lt;/I&gt;&lt;/li&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-will-plastics-become-a-part-of-a-new-food-chain-for-some-organisms-the-nutrients-and-microbes-that-they-are-covered-in-might-make-them-an-attractive-food-choice&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/conclusions_hu44ca438fc42c267f1dc986c67f25aa3f_1017158_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Will plastics become a part of a &amp;lsquo;new&amp;rsquo; food chain? For some organisms the nutrients and microbes that they are covered in might make them an attractive food choice!&#34;&gt;
+
+
+  &lt;img data-src=&#34;https://R-Wright-1.github.io/post/publ5_perspectives/conclusions_hu44ca438fc42c267f1dc986c67f25aa3f_1017158_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;1552&#34; height=&#34;752&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Will plastics become a part of a &amp;lsquo;new&amp;rsquo; food chain? For some organisms the nutrients and microbes that they are covered in might make them an attractive food choice!
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Plasticizer Degradation by Marine Bacterial Isolates: A Proteogenomic and Metabolomic Characterization</title>
       <link>https://R-Wright-1.github.io/post/publ3_plasticizer/</link>
-      <pubDate>Mon, 06 Jan 2020 21:58:12 -0600</pubDate>
+      <pubDate>Thu, 02 Jan 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ3_plasticizer/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;
 &lt;a href=&#34;publ3.pdf&#34;&gt;Download paper&lt;/a&gt;    
@@ -269,7 +456,7 @@ What this complicated figure is telling us, is that the bacteria use a series of
     <item>
       <title>Early Colonization of Weathered Polyethylene by Distinct Bacteria in Marine Coastal Seawater</title>
       <link>https://R-Wright-1.github.io/post/publ2_weath_colo/</link>
-      <pubDate>Tue, 06 Aug 2019 21:58:12 -0600</pubDate>
+      <pubDate>Thu, 29 Aug 2019 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ2_weath_colo/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;
 &lt;a href=&#34;publ2.pdf&#34;&gt;Download paper&lt;/a&gt;    
@@ -365,7 +552,7 @@ This study was primarily carried out by Gabriel Erni-Cassola, and I carried out 
     <item>
       <title>Understanding microbial community dynamics to improve optimal microbiome selection</title>
       <link>https://R-Wright-1.github.io/post/publ1_chi_selec/</link>
-      <pubDate>Thu, 06 Jun 2019 21:58:12 -0600</pubDate>
+      <pubDate>Mon, 03 Jun 2019 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ1_chi_selec/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;
 &lt;a href=&#34;publ1.pdf&#34;&gt;Download paper&lt;/a&gt;    
@@ -578,10 +765,10 @@ As many of you reading will know, one of my central PhD aims was to find out whe
     <item>
       <title>Contaminants, Pollution and Potential Anthropogenic Impacts in Chagos/BIOT</title>
       <link>https://R-Wright-1.github.io/post/publ0_chagos/</link>
-      <pubDate>Thu, 06 Jun 2013 21:58:12 -0600</pubDate>
+      <pubDate>Thu, 31 Jan 2013 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ0_chagos/</guid>
       <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
-&lt;a href=&#34;https://www.springer.com/gp/book/9789400759640&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-94-007-5965-7_21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Published: &lt;em&gt;2013&lt;/em&gt;
 &lt;/br&gt;
 In: &lt;em&gt;Coral Reefs of the United Kingdom Overseas Territories&lt;/em&gt;&lt;/p&gt;

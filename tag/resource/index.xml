@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource | Academic</title>
+    <link>https://R-Wright-1.github.io/tag/resource/</link>
+      <atom:link href="https://R-Wright-1.github.io/tag/resource/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resource</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Sep 2020 21:58:12 -0600</lastBuildDate>
+    <image>
+      <url>https://R-Wright-1.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Resource</title>
+      <link>https://R-Wright-1.github.io/tag/resource/</link>
+    </image>
+    
+    <item>
+      <title>Useful code</title>
+      <link>https://R-Wright-1.github.io/post/resource7_usefulcode/</link>
+      <pubDate>Sun, 06 Sep 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource7_usefulcode/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;useful_code.html&#34;&gt;Link to code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Script to download all NCBI sequences</title>
+      <link>https://R-Wright-1.github.io/post/resource1_peptides/</link>
+      <pubDate>Wed, 08 Jul 2020 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource1_peptides/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/peptides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github repository for &#39;Plasticizer Degradation by Marine Bacterial Isolates: A Proteogenomic and Metabolomic Characterization&#39;</title>
+      <link>https://R-Wright-1.github.io/post/resource3_plasticizer/</link>
+      <pubDate>Sun, 08 Dec 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource3_plasticizer/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/Plasticizer-Degradation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github repository for &#39;Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere&#39;</title>
+      <link>https://R-Wright-1.github.io/post/resource5_metaanalysis/</link>
+      <pubDate>Thu, 10 Oct 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource5_metaanalysis/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/Plastisphere-MetaAnalysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github repository for &#39;A multi-OMIC characterization of biodegradation and microbial community succession within the PET Plastisphere&#39;</title>
+      <link>https://R-Wright-1.github.io/post/resource6_petplastisphere/</link>
+      <pubDate>Tue, 10 Sep 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource6_petplastisphere/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/PET-Plastisphere&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github repository for &#39;Understanding microbial community dynamics to improve optimal microbiome selection&#39;</title>
+      <link>https://R-Wright-1.github.io/post/resource2_chitin/</link>
+      <pubDate>Sat, 01 Jun 2019 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource2_chitin/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/ChitinActivity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Github repository for &#39;Damage repair versus aging in an individual-based model of biofilms&#39;</title>
+      <link>https://R-Wright-1.github.io/post/resource4_aging/</link>
+      <pubDate>Sun, 10 Jan 2016 21:58:12 -0600</pubDate>
+      <guid>https://R-Wright-1.github.io/post/resource4_aging/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://github.com/R-Wright-1/iDynoMiCS_1.5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

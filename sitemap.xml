@@ -3,38 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://R-Wright-1.github.io/post/talk3_wmg/</loc>
-    <lastmod>2020-05-06T23:23:37-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/</loc>
-    <lastmod>2020-05-06T23:23:37-06:00</lastmod>
+    <loc>https://R-Wright-1.github.io/post/publ6_pet/</loc>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/publ7_metaanalysis/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/</loc>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/tag/publication/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/tag/resource/</loc>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/tags/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource7_usefulcode/</loc>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/tag/view-online/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2020-09-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/resource/</loc>
+    <lastmod>2020-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</loc>
+    <lastmod>2020-09-05T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/publ5_perspectives/</loc>
+    <lastmod>2020-09-04T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource1_peptides/</loc>
+    <lastmod>2020-07-08T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/talk3_wmg/</loc>
+    <lastmod>2020-05-06T23:23:37-06:00</lastmod>
   </url>
   
   <url>
@@ -53,93 +88,103 @@
   </url>
   
   <url>
-    <loc>https://R-Wright-1.github.io/post/publ6_pet/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/publ5_perspectives/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://R-Wright-1.github.io/post/publ3_plasticizer/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2020-01-02T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource3_plasticizer/</loc>
+    <lastmod>2019-12-08T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource5_metaanalysis/</loc>
+    <lastmod>2019-10-10T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource6_petplastisphere/</loc>
+    <lastmod>2019-09-10T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/publ2_weath_colo/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-08-29T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/publ1_chi_selec/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-06-03T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource2_chitin/</loc>
+    <lastmod>2019-06-01T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk11_microsoc2/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-04-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk10_microsoc/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-04-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/tag/talk/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-04-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk9_sls/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2019-03-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk8_mmeg/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2018-11-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk7_micro2018/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2018-11-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk6_mba/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2018-05-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk5_imdc/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2018-03-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk4_mmeg/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2017-12-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk2_microsoc/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2017-04-06T21:58:12-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://R-Wright-1.github.io/post/resource4_aging/</loc>
+    <lastmod>2016-01-10T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/talk1_iscb/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2013-06-06T21:58:12-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://R-Wright-1.github.io/post/publ0_chagos/</loc>
-    <lastmod>2020-05-06T21:58:12-06:00</lastmod>
+    <lastmod>2013-01-31T21:58:12-06:00</lastmod>
   </url>
   
   <url>
