@@ -32,7 +32,11 @@ Recalcitrant polymers are widely distributed in the environment. This includes n
       <link>https://R-Wright-1.github.io/post/publ7_metaanalysis/</link>
       <pubDate>Sun, 06 Sep 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ7_metaanalysis/</guid>
-      <description>&lt;p&gt;&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://www.nature.com/articles/s41396-020-00814-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;    
+&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://naturemicrobiologycommunity.nature.com/posts/the-bacterial-colonisers-of-plastics-food-or-just-a-free-ride&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View blog&lt;/a&gt;    
+&lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12923855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary file 1 (script used to produce analysis)&lt;/a&gt;    
 &lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12233753&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary section 1&lt;/a&gt;    
@@ -50,13 +54,11 @@ Recalcitrant polymers are widely distributed in the environment. This includes n
 &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QIIME2 intermediate and output files&lt;/a&gt;&lt;/br&gt;
 &lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.12227303&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All files created during analyses&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Published: &lt;em&gt;NA&lt;/em&gt;
+&lt;p&gt;Published: &lt;em&gt;November 2020&lt;/em&gt;
 &lt;/br&gt;
-In: &lt;em&gt;Submitted&lt;/em&gt;&lt;/p&gt;
+In: &lt;em&gt;The ISME Journal&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
-It is now indisputable that plastics are ubiquitous and problematic in ecosystems globally. Many suggestions have been made about the role that biofilms colonizing plastics in the environment – termed the “Plastisphere” – may play in the transportation and ecological impact of these plastics. By collecting and re-analyzing all raw 16S rRNA gene sequencing and metadata from 35 studies we have performed the first meta-analysis of the Plastisphere in marine, freshwater, other aquatic (e.g. brackish or aquaculture) and terrestrial environments. We show that random forest models can be trained to differentiate between groupings of environmental factors as well as aspects of study design, but – crucially – also between plastics when compared with control biofilms and between different plastic types and community successional stages. Our meta-analysis confirms that potentially biodegrading Plastisphere members, the hydrocarbonoclastic Oceanospirillales and Alteromonadales are consistently more abundant in plastic than control biofilm samples across multiple studies and environments. This indicates the predilection of these organisms for plastics and confirms the urgent need for their ability to biodegrade plastics to be comprehensively tested. We also identified key knowledge gaps that should be addressed by future studies. Gaps include a lack of knowledge on the Plastisphere in the Southern hemisphere and the necessity to move away from phylogeny-based inference of metabolic capacities and perform conclusive testing for pathogenicity and virulence factors as well as plastic biodegrading ability within the Plastisphere.&lt;/br&gt;&lt;/br&gt;
-&lt;p&gt;I will post a full summary of this paper when it has been peer reviewed and published.&lt;/p&gt;
-</description>
+Please see my [Nature Microbiology &#34;behind the paper&#34; blog post](https://naturemicrobiologycommunity.nature.com/posts/the-bacterial-colonisers-of-plastics-food-or-just-a-free-ride) for an easier-to-digest summary of the main findings of the paper.</description>
     </item>
     
     <item>
@@ -64,15 +66,17 @@ It is now indisputable that plastics are ubiquitous and problematic in ecosystem
       <link>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</link>
       <pubDate>Sat, 05 Sep 2020 21:58:12 -0600</pubDate>
       <guid>https://R-Wright-1.github.io/post/publ4_aging_biofilms/</guid>
-      <description>&lt;p&gt;&lt;i class=&#34;ai ai-biorxiv-square&#34;&gt;&lt;/i&gt; 
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-binoculars&#34;&gt;&lt;/i&gt; 
+&lt;a href=&#34;https://msystems.asm.org/content/5/5/e00018-20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View online&lt;/a&gt;    
+&lt;i class=&#34;ai ai-biorxiv-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Preprint&lt;/a&gt;    
 &lt;i class=&#34;ai ai-doi-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.1099/acmi.ac2019.po0205&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Conference abstract&lt;/a&gt;    
 &lt;i class=&#34;ai ai-figshare-square&#34;&gt;&lt;/i&gt; 
 &lt;a href=&#34;https://doi.org/10.6084/m9.figshare.11520534&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary data&lt;/a&gt;    &lt;/p&gt;
-&lt;p&gt;Published: &lt;em&gt;January 2020&lt;/em&gt;
+&lt;p&gt;Published: &lt;em&gt;October 2020&lt;/em&gt;
 &lt;/br&gt;
-In: &lt;em&gt;Preprint (under revision for mSystems)&lt;/em&gt;&lt;/p&gt;
+In: &lt;em&gt;mSystems&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Summary&lt;/h2&gt;
 I will soon be posting a summary of this paper here
 &lt;h2&gt;Abstract&lt;/h2&gt;
