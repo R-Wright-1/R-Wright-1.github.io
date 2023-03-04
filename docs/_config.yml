@@ -21,7 +21,9 @@
 title: Robyn Wright
 email: robyn.wright@dal.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! My name is Robyn Wright, and I am currently a Mitacs postdoctoral research fellow in the Langille Lab (Department of Pharmacology, Dalhousie University) and am researching the human microbiome in healthy and diseased individuals. I recently completed an Association of Commonwealth Universities Blue Charter Fellowship (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the "Plastisphere". I am interested in microbial community dynamics and interactions; how are these communities impacted by different factors of their environments? How do they change over time? What functions are they capable of carrying out?
+  Robyn Wright
+Mitacs postdoctoral research fellow in the Langille Lab
+Department of Pharmacology, Dalhousie University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://r-wright-1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RobynJWright
