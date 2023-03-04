@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Robyn Wright, and I am currently a Mitacs postdoctoral research fellow in the Langille Lab (Department of Pharmacology, Dalhousie University) and am researching the human microbiome in healthy and diseased individuals. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Prior to this, I completed an Association of Commonwealth Universities Blue Charter Fellowship (October 2019-April 2020; School for Resources and Environmental Studies, Dalhousie University) in which I carried out a meta-analysis of all studies that characterise the microbial communities that colonise plastics - the "Plastisphere". 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My research interests lie in understanding the roles that microbial communities play in human and ecosystem health:
+- How are these communities impacted by different factors of their environments? 
+- How do they change over time? 
+- What functions are they capable of carrying out?
 
-
-[jekyll-organization]: https://github.com/jekyll
+My current research is focussed on: (i) the association between the microbiome and human health and disease; (ii) the remediation of human or ecosystem health threats by bacteria; and (iii) assessing and benchmarking the methods that we use to study microbial systems. 
