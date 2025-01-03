@@ -13,7 +13,7 @@ DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
 <details>
   <summary>Abstract</summary>
   This study aimed to assess the association between the oral microbiome, age, and frailty. Data and saliva samples were obtained from male and female participants aged 35–70 years (n = 1357). Saliva samples were analysed by 16S rRNA gene sequencing and differences in microbial diversity and community compositions were examined in relation to chronological age and the frailty index (FI). Most alpha diversity measures (Richness, Shannon Diversity, Faith’s Phylogenetic Diversity) showed an inverse association with frailty, whereas a positive association was observed with age and Shannon Diversity and Evenness. A further sex-stratified analysis revealed differences in measures of microbial diversity and composition. Multiple genera were detected as significantly differentially abundant with increasing frailty and age by at least two methods. With age, the relative abundance of Veillonella was reduced in both males and females, whereas increases in Corynebacterium appeared specific to males and Aggregatibacter, Fusobacterium, Neisseria, Stomatobaculum, and Porphyromonas specific to females. Beta diversity was significantly associated with multiple mental health components of the FI. This study shows age and frailty are differentially associated with measures of microbial diversity and composition, suggesting the oral microbiome may be a useful indicator of increased risk of frailty or a potential target for improving health in ageing adults.
-</details><br>
+</details>
 <br>
 #### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
 [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [Link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
@@ -29,7 +29,7 @@ We show that plastics support a taxonomically distinct microbiome containing pot
 <br>
 <b>Conclusions</b><br>
 Our results provide insights into the capacity of the riverine plastisphere to harbour a distinct set of potentially pathogenic bacteria and function as a reservoir of ARGs. The environmental impact that plastics pose if they act as a reservoir for either pathogenic bacteria or ARGs is aggravated by the persistence of plastics in the environment due to their recalcitrance and buoyancy. Nevertheless, the high similarities with microbiomes growing on natural co-occurring materials and even more worrisome microbiome observed in the surrounding water highlights the urgent need to integrate the analysis of all environmental compartments when assessing risks and exposure to pathogens and ARGs in anthropogenically-impacted ecosystems.<br>
-</details><br>
+</details>
 <br>
 #### Assessing the impact of chronic and acute plastic pollution from construction activities and other anthropogenic sources: A case study from the coast of Antofogasta, Chile.
 [Link to paper](https://doi.org/10.1016/j.marpolbul.2023.115510) / [Link to preprint](http://dx.doi.org/10.2139/ssrn.4489230)<br>
@@ -38,7 +38,7 @@ Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., C
 <details>
 <summary>Abstract</summary>
 Plastic pollution is a critical environmental issue with far-reaching and not yet fully explored consequences. This study uncovered a significant source of plastic contamination arising from improper application and management of expanded polystyrene (EPS) utilised as expansion joints at a construction site near the coast of Antofagasta, Chile. Through meticulous field observations and calculations, we estimate that a staggering 82.9 million EPS spheres have the potential to be released into the environment from the 7.62 m3 of this material used for the construction of this coastal promenade, constituting a chronic source of pollution. Despite the ongoing construction, we have already evidenced mechanical fragmentation and dispersion of EPS microplastic pollution in the surrounding natural environment. To our knowledge, this is the first study that documents misused construction materials contributing to plastic pollution. In addition to the EPS pollution, our findings reveal an alarming accumulation of litter – an acute pollution source – including plastic cups, bottles, carrier bags, and several other construction materials (e.g. plastic nets, films) that are exacerbating the pollution problems within the region and potentially endangering marine and terrestrial organisms. These observations highlight the urgent need for mitigating measures and intervention policies targeting construction-related plastic and microplastic pollution, along with a more robust regulatory framework for construction activities as well as adequate surveillance and enforcement.
-</details><br>
+</details>
 <br>
 #### Exploring the microbiome of oral epithelial dysplasia as a predictor of malignant progression. 
 [Link to paper](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-02911-5) / [Link to preprint](https://www.researchsquare.com/article/rs-2129013/v1)<br>
@@ -46,26 +46,24 @@ Plastic pollution is a critical environmental issue with far-reaching and not ye
 <details>
 <summary>Abstract</summary>
 A growing body of research associates the oral microbiome and oral cancer. Well-characterized clinical samples with outcome data are required to establish relevant associations between the microbiota and disease. The objective of this study was to characterize the community variations and the functional implications of the microbiome in low-grade oral epithelial dysplasia (OED) using 16S rRNA gene sequencing from annotated archival swabs in progressing (P) and non-progressing (NP) OED. We characterised the microbial community in 90 OED samples — 30 swabs from low-grade OED that progressed to cancer (cases) and 60 swabs from low-grade OED that did not progress after a minimum of 5 years of follow up (matched control subjects). There were small but significant differences between P and NP samples in terms of alpha diversity as well as beta diversity in conjunction with other clinical factors such as age and smoking status for both taxa and functional predictions. Across all samples, the most abundant genus was Streptococcus, followed by Haemophilus, Rothia, and Neisseria. Taxa and predicted functions were identified that were significantly differentially abundant with progression status (all Ps and NPs), when samples were grouped broadly by the number of years between sampling and progression or in specific time to progression for Ps only. However, these differentially abundant features were typically present only at low abundances. For example, Campylobacter was present in slightly higher abundance in Ps (1.72%) than NPs (1.41%) and this difference was significant when Ps were grouped by time to progression. Furthermore, several of the significantly differentially abundant functions were linked to the Campylobacteraceae family in Ps and may justify further investigation. Larger cohort studies to further explore the microbiome as a potential biomarker of risk in OED are warranted.
-</details><br>
+</details>
 <br>
 #### From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
-**Wright, R.**, Comeau, A. & Langille, M. (2023) *Microb. Genom.* ([link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1))
-
-##### Abstract
+**Wright, R.**, Comeau, A. & Langille, M. (2023) *Microb. Genom.* ([link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1))<br>
 <details>
-
+<summary>Abstract</summary>
+In metagenomic analyses of microbiomes, one of the first steps is usually the taxonomic classification of reads by comparison to a database of previously taxonomically classified genomes. While different studies comparing metagenomic taxonomic classification methods have determined that different tools are ‘best’, there are two tools that have been used the most to-date: Kraken (k-mer-based classification against a user-constructed database) and MetaPhlAn (classification by alignment to clade-specific marker genes), the latest versions of which are Kraken2 and MetaPhlAn 3, respectively. We found large discrepancies in both the proportion of reads that were classified as well as the number of species that were identified when we used both Kraken2 and MetaPhlAn 3 to classify reads within metagenomes from human-associated or environmental datasets. We then investigated which of these tools would give classifications closest to the real composition of metagenomic samples using a range of simulated and mock samples and examined the combined impact of tool–parameter–database choice on the taxonomic classifications given. This revealed that there may not be a one-size-fits-all ‘best’ choice. While Kraken2 can achieve better overall performance, with higher precision, recall and F1 scores, as well as alpha- and beta-diversity measures closer to the known composition than MetaPhlAn 3, the computational resources required for this may be prohibitive for many researchers, and the default database and parameters should not be used. We therefore conclude that the best tool–parameter–database choice for a particular application depends on the scientific question of interest, which performance metric is most important for this question and the limit of available computational resources.
 </details>
-
-
+<br>
 ### Microbial pioneers of plastic colonisation in coastal seawaters. 
-Latva, M., Dedman, C., **Wright, R.**, Polin, M. & Christie-Oleza, J. (2022) *Mar. Poll. Bull.* ([link to paper](https://doi.org/10.1016/j.marpolbul.2022.113701))
-**Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, supervision of data analysis, editing of the manuscript.
-
+[Link to paper](https://doi.org/10.1016/j.marpolbul.2022.113701)<br>
+Latva, M., Dedman, C., **Wright, R.**, Polin, M. & Christie-Oleza, J. (2022) *Mar. Poll. Bull.*<br>
+**Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, supervision of data analysis, editing of the manuscript.<br>
 <details>
-  <summary><h3></h3></summary>
+<summary>Abstract</summary>
 
 </details>
-
+<br>
 ### Microbiome differential abundance methods produce different results across 38 datasets. 
 Nearing, J., Douglas, G., Hayes, M., MacDonald, J., Desai, D., Allward, N., Jones, C., **Wright, R.**, Dhanani, A., Comeau, A. & Langille, M. (2022) *Nat. Comms.* ([link to paper](https://doi.org/10.1038/s41467-022-28034-z) / [link to preprint](https://www.biorxiv.org/content/10.1101/2021.05.10.443486v1))
 Contribution: processed some of the datasets, contributed to decision-making on analyses and presentation of results, editing of the manuscript.

@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image](/assets/RW_photo_2024.jpg)
+<img src="/assets/RW_photo_2024.jpg" alt="Photo of Robyn Wright" style="width:25%; height:auto;">
 
 ## Dr. Robyn Wright
 ### Microbial Ecologist / Bioinformatician / Postdoctoral Research Fellow
