@@ -53,7 +53,7 @@ A growing body of research associates the oral microbiome and oral cancer. Well-
 </details>
 <br>
 #### From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
-[Link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [Link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1)
+[Link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [Link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1)<br>
 **Wright, R.**, Comeau, A. & Langille, M. (2023)<br>
 *Microbial Genomics* <br>
 <details>
@@ -118,9 +118,9 @@ The extent of senescence due to damage accumulation—or aging—is evidently ev
 <br>
 #### Marine plastic debris – a new surface for microbial colonization. 
 [Link to paper](https://doi.org/10.1021/acs.est.0c02305) / [Link to journal cover](https://pubs.acs.org/toc/esthag/54/19)<br>
-**Wright, R.***, Erni-Cassola, G.*, Zadjelovic, V., Latva, M. & Christie-Oleza, J. (2020)<br>
+**Wright, R.**^, Erni-Cassola, G.^, Zadjelovic, V., Latva, M. & Christie-Oleza, J. (2020)<br>
 *Environmental Science & Technology* <br>
-* denotes equal contribution.<br>
+^ denotes equal contribution.<br>
 <details>
 <summary>Abstract</summary>
 Plastics become rapidly colonized by microbes when released into marine environments. This microbial community—the Plastisphere—has recently sparked a multitude of scientific inquiries and generated a breadth of knowledge, which we bring together in this review. Besides providing a better understanding of community composition and biofilm development in marine ecosystems, we critically discuss current research on plastic biodegradation and the identification of potentially pathogenic “hitchhikers” in the Plastisphere. The Plastisphere is at the interface between the plastic and its surrounding milieu, and thus drives every interaction that this synthetic material has with its environment, from ecotoxicity and new links in marine food webs to the fate of the plastics in the water column. We conclude that research so far has not shown Plastisphere communities to starkly differ from microbial communities on other inert surfaces, which is particularly true for mature biofilm assemblages. Furthermore, despite progress that has been made in this field, we recognize that it is time to take research on plastic–Plastisphere–environment interactions a step further by identifying present gaps in our knowledge and offering our perspective on key aspects to be addressed by future studies: (I) better physical characterization of marine biofilms, (II) inclusion of relevant controls, (III) study of different successional stages, (IV) use of environmentally relevant concentrations of biofouled microplastics, and (V) prioritization of gaining a mechanistic and functional understanding of Plastisphere communities.
@@ -165,8 +165,8 @@ The selection of microbiomes to enhance a desired process is widely used, though
 
 #### Lime amendment to chronically acidified forest soils results in shifts in microbial communities.
 [Link to preprint](https://doi.org/10.21203/rs.3.rs-3876773/v1)<br>
-Hosmer, M.*, **Wright, R.***, McCavour, C., Keys, K., Langille, M., Sterling, S. & Rohde, J. <br>
-* denotes equal contribution. <br>
+Hosmer, M.^, **Wright, R.**^, McCavour, C., Keys, K., Langille, M., Sterling, S. & Rohde, J. <br>
+^ denotes equal contribution. <br>
 <details>
 <summary>Abstract</summary>
 A consequence of past acid rain events has been chronic acidification of both Nova Scotian forests and watersheds, leading to a loss of essential nutrients and subsequently to decreased forest productivity and biodiversity. Liming – supplementing forests with crushed rock (dolomite, limestone, or basalt) – can restore essential nutrients to acidified soils as well as increasing the pH of the soils and the carbon capture by forests by promotion of tree growth. The effectiveness of liming treatments have often been assessed biologically through tree growth measurements, but microorganisms respond rapidly to changes in pH and nutrient availability, and would potentially provide early insights into forest recovery. However, the impact of liming on the soil microbiome is not well understood; understanding the impacts of liming on a micro as well as a macro level will help to determine whether liming is a good remediation strategy for Nova Scotia. A pilot study evaluating liming in acidified forests in Nova Scotia began in 2017. Microbiome analyses (prokaryotic 16S rRNA and fungal ITS2 gene amplicon sequencing) of three different depths (horizons) of soil show significant differences between lime-treated and control soils for the prokaryotic but not fungal communities, particularly in the uppermost soil horizon sampled. Notably, several genera, particularly from the Bacteroidia class, were significantly more abundant in treated than control soils in both upper soil horizons. The impacts of liming treatment were smaller in the deepest soil horizon sampled, suggesting that lime amendment either takes longer to reach these depths, or has little impact on these microbial communities. Future studies that investigate the functional capacity of these microbial communities and longitudinal follow-ups are warranted.
