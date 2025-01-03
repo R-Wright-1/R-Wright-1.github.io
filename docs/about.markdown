@@ -16,7 +16,7 @@ My research interests lie in understanding the roles that microbial communities 
 - Experience teaching and organizing bioinformatics workshops hosted through the Canadian Bioinformatics Workshops, IMPACTT (University of Calgary), and others at Dalhousie University run on Amazon Web Services (AWS) and Digital Research Alliance of Canada (AllianceCan) servers
 - Proficiency using multiple coding languages (Python, R, Bash) for bioinformatic analyses (both locally and cloud-based), using RStudio for tracking code used, and Github for version control and hosting tutorials
 
-<h4 style="color:#F7D171;">Specific skills</h4>
+<h4 style="color:#546D84;">Specific skills</h4>
 
 - **Programming languages:** 
   - Python (proficient)
@@ -69,28 +69,28 @@ I am involved with several projects, but the over-arching themes of these projec
 
 <h3 style="color:#AF6182;">SELECTED OTHER POSITIONS</h3>
 
-<h4 style="color:#F7D171;">Postdoctoral Research Fellow</h4>
+<h4 style="color:#546D84;">Postdoctoral Research Fellow</h4>
 
 10/2019 - 04/2020<br>
 School for Resources and Environmental Studies, Dalhousie University<br>
 **Principal Investigator:** [Dr. Tony Walker](https://www.dal.ca/faculty/science/sres/faculty-staff/our-faculty/tony-walker.html)<br>
 Conceptualized and conducted the first meta-analysis of ~50 studies that used amplicon sequencing to characterize the “plastisphere” (microbes colonizing plastics in the environment)
 
-<h4 style="color:#F7D171;">Instructor for Canadian Bioinformatics Workshops (CBW)</h4>
+<h4 style="color:#546D84;">Instructor for Canadian Bioinformatics Workshops (CBW)</h4>
 
 05/2024<br>
 Design and delivery of Beginner and Advanced Microbiome Workshops held at Memorial University<br>
 Overall design of curriculum and content for all modules, overseeing design of labs by TA’s and specific design of Beginner (Module 1: Introduction to sequencing data analysis and Module 4: Functional prediction and additional analyses) and Advanced (Module 2: Metagenomic assembly and binning and Module 3: Metagenomic functional annotation) labs<br>
 Delivery of lectures in both Beginner (Module 2: Marker gene profiling) and Advanced (Module 3: Metagenomic functional annotation) courses
 
-<h4 style="color:#F7D171;">Sole Instructor for ICG Bioinformatics Workshop</h4>
+<h4 style="color:#546D84;">Sole Instructor for ICG Bioinformatics Workshop</h4>
 
 07/2024<br>
 Institute for Comparative Genomics, Dalhousie University<br>
 Content of the workshop was mainly the same as the Beginner and Advanced Microbiome Workshops, above, but all lectures and labs were delivered by me<br>
 Setup of AWS Instances for all workshop participants, including install of all programs needed for analyses & RStudio server as well as launching of accounts/instances for participants and organizing/logistics of workshop
 
-<h4 style="color:#F7D171;">Other roles</h4>
+<h4 style="color:#546D84;">Other roles</h4>
 
 - Contribution to Microbiome Helper (Github dedicated to microbiome analysis tutorials/workflows)
 - Instructor/TA for other bioinformatics workshops: CBW-IMPACTT (University of Calgary, 07/2023, AWS), ICG (05/2023, AllianceCanada), IMPACTT (University of Calgary, 05/2022 & McGill University, 12/2022, AWS)
@@ -99,7 +99,7 @@ Setup of AWS Instances for all workshop participants, including install of all p
 
 <h3 style="color:#AF6182;">EDUCATION</h3>
 
-<h4 style="color:#F7D171;">PhD Biological Sciences</h4>
+<h4 style="color:#546D84;">PhD Biological Sciences</h4>
 
 2015 - 2019<br>
 School of Life Sciences, University of Warwick, UK<br>
@@ -116,7 +116,7 @@ Faculty of Science, Engineering and Medicine Thesis Prize Winner for School of L
 **Rotation project (3 months):** Aging of bacteria in biofilms, using an individual-based model to study growth. Supervised by [Dr. Jan-Ulrich Kreft](https://www.birmingham.ac.uk/staff/profiles/biosciences/kreft-jan-ulrich), University of Birmingham, UK.<br>
 **Professional internship (3 months):** Waste Services at Coventry City Council
 
-<h4 style="color:#F7D171;">BSc Marine Biology (First Class, Hons.)</h4>
+<h4 style="color:#546D84;">BSc Marine Biology (First Class, Hons.)</h4>
 
 2010 - 2013<br>
 University of Plymouth, UK 
