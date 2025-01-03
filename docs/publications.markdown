@@ -6,21 +6,21 @@ permalink: /publications/
 
 # JOURNAL ARTICLES
 
-#### Oral microbial signatures associated with age and frailty in Canadian adults.
-[link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
+#### 1. Oral microbial signatures associated with age and frailty in Canadian adults.
+[Link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [Link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
 DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
 **Contribution:** data analysis, writing and editing of the manuscript.<br>
 ##### Abstract
 <details>
+  <summary>Abstract</summary>
   This study aimed to assess the association between the oral microbiome, age, and frailty. Data and saliva samples were obtained from male and female participants aged 35–70 years (n = 1357). Saliva samples were analysed by 16S rRNA gene sequencing and differences in microbial diversity and community compositions were examined in relation to chronological age and the frailty index (FI). Most alpha diversity measures (Richness, Shannon Diversity, Faith’s Phylogenetic Diversity) showed an inverse association with frailty, whereas a positive association was observed with age and Shannon Diversity and Evenness. A further sex-stratified analysis revealed differences in measures of microbial diversity and composition. Multiple genera were detected as significantly differentially abundant with increasing frailty and age by at least two methods. With age, the relative abundance of Veillonella was reduced in both males and females, whereas increases in Corynebacterium appeared specific to males and Aggregatibacter, Fusobacterium, Neisseria, Stomatobaculum, and Porphyromonas specific to females. Beta diversity was significantly associated with multiple mental health components of the FI. This study shows age and frailty are differentially associated with measures of microbial diversity and composition, suggesting the oral microbiome may be a useful indicator of increased risk of frailty or a potential target for improving health in ageing adults.
 </details>
 
 
-#### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
-[link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
+#### 2. Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
+[Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [Link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
 Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)  *Microbiome.*<br>
 **Contribution:** all data analysis and figure generation; writing and editing of the manuscript.<br>
-
 ##### Abstract
 <details>
 **Background**
@@ -34,12 +34,13 @@ Our results provide insights into the capacity of the riverine plastisphere to h
 </details>
 
 
-### Assessing the impact of chronic and acute plastic pollution from construction activities and other anthropogenic sources: A case study from the coast of Antofogasta, Chile.
-Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., Christie-Oleza, J. & Riquelme, C. (2023) *Mar. Poll. Bull.* ([link to paper](https://doi.org/10.1016/j.marpolbul.2023.115510) / [link to preprint](http://dx.doi.org/10.2139/ssrn.4489230))
-**Contribution:** writing and editing of the manuscript.
-
+### 3. Assessing the impact of chronic and acute plastic pollution from construction activities and other anthropogenic sources: A case study from the coast of Antofogasta, Chile.
+[Link to paper](https://doi.org/10.1016/j.marpolbul.2023.115510) / [Link to preprint](http://dx.doi.org/10.2139/ssrn.4489230)<br>
+Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., Christie-Oleza, J. & Riquelme, C. (2023) *Mar. Poll. Bull.*<br>
+**Contribution:** writing and editing of the manuscript.<br>
+##### Abstract
 <details>
-
+Plastic pollution is a critical environmental issue with far-reaching and not yet fully explored consequences. This study uncovered a significant source of plastic contamination arising from improper application and management of expanded polystyrene (EPS) utilised as expansion joints at a construction site near the coast of Antofagasta, Chile. Through meticulous field observations and calculations, we estimate that a staggering 82.9 million EPS spheres have the potential to be released into the environment from the 7.62 m3 of this material used for the construction of this coastal promenade, constituting a chronic source of pollution. Despite the ongoing construction, we have already evidenced mechanical fragmentation and dispersion of EPS microplastic pollution in the surrounding natural environment. To our knowledge, this is the first study that documents misused construction materials contributing to plastic pollution. In addition to the EPS pollution, our findings reveal an alarming accumulation of litter – an acute pollution source – including plastic cups, bottles, carrier bags, and several other construction materials (e.g. plastic nets, films) that are exacerbating the pollution problems within the region and potentially endangering marine and terrestrial organisms. These observations highlight the urgent need for mitigating measures and intervention policies targeting construction-related plastic and microplastic pollution, along with a more robust regulatory framework for construction activities as well as adequate surveillance and enforcement.
 </details>
 
 
