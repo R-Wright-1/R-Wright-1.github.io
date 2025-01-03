@@ -4,27 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
-# PUBLICATIONS
+# JOURNAL ARTICLES
 
-<details>
-  <summary><h3>Oral microbial signatures associated with age and frailty in Canadian adults.</h3></summary>
-  
-  [link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)</br>
-  DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* </br>
+#### Oral microbial signatures associated with age and frailty in Canadian adults.
+[link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
+  DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
   **Contribution:** data analysis, writing and editing of the manuscript.
 
-</details>
-
-
-
 <details>
-  <summary><h3></h3></summary>
-
+  <summary><h5>Abstract</h5></summary>
+  This study aimed to assess the association between the oral microbiome, age, and frailty. Data and saliva samples were obtained from male and female participants aged 35–70 years (n = 1357). Saliva samples were analysed by 16S rRNA gene sequencing and differences in microbial diversity and community compositions were examined in relation to chronological age and the frailty index (FI). Most alpha diversity measures (Richness, Shannon Diversity, Faith’s Phylogenetic Diversity) showed an inverse association with frailty, whereas a positive association was observed with age and Shannon Diversity and Evenness. A further sex-stratified analysis revealed differences in measures of microbial diversity and composition. Multiple genera were detected as significantly differentially abundant with increasing frailty and age by at least two methods. With age, the relative abundance of Veillonella was reduced in both males and females, whereas increases in Corynebacterium appeared specific to males and Aggregatibacter, Fusobacterium, Neisseria, Stomatobaculum, and Porphyromonas specific to females. Beta diversity was significantly associated with multiple mental health components of the FI. This study shows age and frailty are differentially associated with measures of microbial diversity and composition, suggesting the oral microbiome may be a useful indicator of increased risk of frailty or a potential target for improving health in ageing adults.
 </details>
 
-### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
-Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)  *Microbiome.* ([link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [link to preprint](https://www.researchsquare.com/article/rs-2886255/v1))
-**Contribution:** all data analysis and figure generation; writing and editing of the manuscript.
+#### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
+[link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
+Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)  *Microbiome.*<br>
+**Contribution:** all data analysis and figure generation; writing and editing of the manuscript.<br>
 
 <details>
   <summary><h3></h3></summary>
