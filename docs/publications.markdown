@@ -8,46 +8,58 @@ permalink: /publications/
 
 #### Oral microbial signatures associated with age and frailty in Canadian adults.
 [link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
-  DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
-  **Contribution:** data analysis, writing and editing of the manuscript.<br>
-<details><summary><h5>Abstract</h5></summary>
+DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
+**Contribution:** data analysis, writing and editing of the manuscript.<br>
+##### Abstract
+<details>
   This study aimed to assess the association between the oral microbiome, age, and frailty. Data and saliva samples were obtained from male and female participants aged 35–70 years (n = 1357). Saliva samples were analysed by 16S rRNA gene sequencing and differences in microbial diversity and community compositions were examined in relation to chronological age and the frailty index (FI). Most alpha diversity measures (Richness, Shannon Diversity, Faith’s Phylogenetic Diversity) showed an inverse association with frailty, whereas a positive association was observed with age and Shannon Diversity and Evenness. A further sex-stratified analysis revealed differences in measures of microbial diversity and composition. Multiple genera were detected as significantly differentially abundant with increasing frailty and age by at least two methods. With age, the relative abundance of Veillonella was reduced in both males and females, whereas increases in Corynebacterium appeared specific to males and Aggregatibacter, Fusobacterium, Neisseria, Stomatobaculum, and Porphyromonas specific to females. Beta diversity was significantly associated with multiple mental health components of the FI. This study shows age and frailty are differentially associated with measures of microbial diversity and composition, suggesting the oral microbiome may be a useful indicator of increased risk of frailty or a potential target for improving health in ageing adults.
 </details>
+
 
 #### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
 [link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
 Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)  *Microbiome.*<br>
 **Contribution:** all data analysis and figure generation; writing and editing of the manuscript.<br>
 
+##### Abstract
 <details>
-  <summary><h3></h3></summary>
+**Background**
+The widespread nature of plastic pollution has given rise to wide scientific and social concern regarding the capacity of these materials to serve as vectors for pathogenic bacteria and reservoirs for Antimicrobial Resistance Genes (ARG). In- and ex-situ incubations were used to characterise the riverine plastisphere taxonomically and functionally in order to determine whether antibiotics within the water influenced the ARG profiles in these microbiomes and how these compared to those on natural surfaces such as wood and their planktonic counterparts.
 
+**Results**
+We show that plastics support a taxonomically distinct microbiome containing potential pathogens and ARGs. While the plastisphere was similar to those biofilms that grew on wood, they were distinct from the surrounding water microbiome. Hence, whilst potential opportunistic pathogens (i.e. Pseudomonas aeruginosa, Acinetobacter and Aeromonas) and ARG subtypes (i.e. those that confer resistance to macrolides/lincosamides, rifamycin, sulfonamides, disinfecting agents and glycopeptides) were predominant in all surface-related microbiomes, especially on weathered plastics, a completely different set of potential pathogens (i.e. Escherichia, Salmonella, Klebsiella and Streptococcus) and ARGs (i.e. aminoglycosides, tetracycline, aminocoumarin, fluoroquinolones, nitroimidazole, oxazolidinone and fosfomycin) dominated in the planktonic compartment. Our genome-centric analysis allowed the assembly of 215 Metagenome Assembled Genomes (MAGs), linking ARGs and other virulence-related genes to their host. Interestingly, a MAG belonging to Escherichia –that clearly predominated in water– harboured more ARGs and virulence factors than any other MAG, emphasising the potential virulent nature of these pathogenic-related groups. Finally, ex-situ incubations using environmentally-relevant concentrations of antibiotics increased the prevalence of their corresponding ARGs, but different riverine compartments –including plastispheres– were affected differently by each antibiotic.
+
+**Conclusions**
+Our results provide insights into the capacity of the riverine plastisphere to harbour a distinct set of potentially pathogenic bacteria and function as a reservoir of ARGs. The environmental impact that plastics pose if they act as a reservoir for either pathogenic bacteria or ARGs is aggravated by the persistence of plastics in the environment due to their recalcitrance and buoyancy. Nevertheless, the high similarities with microbiomes growing on natural co-occurring materials and even more worrisome microbiome observed in the surrounding water highlights the urgent need to integrate the analysis of all environmental compartments when assessing risks and exposure to pathogens and ARGs in anthropogenically-impacted ecosystems.
 </details>
+
 
 ### Assessing the impact of chronic and acute plastic pollution from construction activities and other anthropogenic sources: A case study from the coast of Antofogasta, Chile.
 Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., Christie-Oleza, J. & Riquelme, C. (2023) *Mar. Poll. Bull.* ([link to paper](https://doi.org/10.1016/j.marpolbul.2023.115510) / [link to preprint](http://dx.doi.org/10.2139/ssrn.4489230))
 **Contribution:** writing and editing of the manuscript.
 
 <details>
-  <summary><h3></h3></summary>
 
 </details>
+
 
 ### Exploring the microbiome of oral epithelial dysplasia as a predictor of malignant progression. 
 **Wright, R.**, Pewarchuk, M., Marshall, E., Murray, B., Rosin, M., Laronde, D., Zhang, L., Lam, W., Langille, M. & Rock, L. (2023) *BMC Oral Health.* ([link to paper](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-02911-5) / [link to preprint](https://www.researchsquare.com/article/rs-2129013/v1))
 
+##### Abstract
 <details>
-  <summary><h3></h3></summary>
 
 </details>
+
 
 ### From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
 **Wright, R.**, Comeau, A. & Langille, M. (2023) *Microb. Genom.* ([link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1))
 
+##### Abstract
 <details>
-  <summary><h3></h3></summary>
 
 </details>
+
 
 ### Microbial pioneers of plastic colonisation in coastal seawaters. 
 Latva, M., Dedman, C., **Wright, R.**, Polin, M. & Christie-Oleza, J. (2022) *Mar. Poll. Bull.* ([link to paper](https://doi.org/10.1016/j.marpolbul.2022.113701))
