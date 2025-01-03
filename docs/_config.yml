@@ -22,7 +22,7 @@ title: Robyn Wright
 email: robyn.wright@dal.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Robyn Wright / Mitacs postdoctoral research / Langille Lab / Dalhousie University
-baseurl: "https://r-wright-1.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://r-wright-1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RobynJWright
 github_username:  R-Wright-1
