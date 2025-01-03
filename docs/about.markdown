@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-'#AF6182', '#F7D171', '#546D84', '#C57F3B', '#898B76'
-
 I finished my PhD at the University of Warwick, UK, in Biological Sciences (microbial ecology) in October 2019 and have since held several different postdoctoral research fellow positions, primarily in the Langille Lab at Dalhousie University. Between January 2021 and December 2022, I was supported by an I3V-DMRF Dr. David H. Hubel postdoctoral fellowship and in January 2023 and again in April 2024 I was awarded a Mitacs Accelerate fellowship to work jointly between the Langille Lab and the Crosbie Lab at SickKids, Toronto.
 
 My research interests lie in understanding the roles that microbial communities play in human and ecosystem health. This includes specific interests in: (i) evaluating the association between the microbiome and human health and disease; (ii) assessing and benchmarking the methods that we use to study microbial systems; (iii) interactions between microbial community members and how the undulations between cooperation and competition drive microbial community organisation and niche specialisation; (iv) isolating and characterising bacterial strains that are potentially able to remediate human or ecosystem health threats; and (v) understanding the evolution of mechanisms for microbial growth and persistence.
@@ -61,7 +59,7 @@ My research interests lie in understanding the roles that microbial communities 
 
 <h3 style="color:#AF6182;">CURRENT POSITION</h3>
 
-05/2020 - present<br>
+**05/2020 - present**<br>
 Department of Pharmacology, Dalhousie University, Nova Scotia, Canada<br>
 **Principal Investigator:** [Dr. Morgan Langille](https://morganlangille.com/)<br>
 
@@ -71,21 +69,21 @@ I am involved with several projects, but the over-arching themes of these projec
 
 <h4 style="color:#546D84;">Postdoctoral Research Fellow</h4>
 
-10/2019 - 04/2020<br>
+**10/2019 - 04/2020**<br>
 School for Resources and Environmental Studies, Dalhousie University<br>
 **Principal Investigator:** [Dr. Tony Walker](https://www.dal.ca/faculty/science/sres/faculty-staff/our-faculty/tony-walker.html)<br>
 Conceptualized and conducted the first meta-analysis of ~50 studies that used amplicon sequencing to characterize the “plastisphere” (microbes colonizing plastics in the environment)
 
 <h4 style="color:#546D84;">Instructor for Canadian Bioinformatics Workshops (CBW)</h4>
 
-05/2024<br>
+**05/2024**<br>
 Design and delivery of Beginner and Advanced Microbiome Workshops held at Memorial University<br>
 Overall design of curriculum and content for all modules, overseeing design of labs by TA’s and specific design of Beginner (Module 1: Introduction to sequencing data analysis and Module 4: Functional prediction and additional analyses) and Advanced (Module 2: Metagenomic assembly and binning and Module 3: Metagenomic functional annotation) labs<br>
 Delivery of lectures in both Beginner (Module 2: Marker gene profiling) and Advanced (Module 3: Metagenomic functional annotation) courses
 
 <h4 style="color:#546D84;">Sole Instructor for ICG Bioinformatics Workshop</h4>
 
-07/2024<br>
+**07/2024**<br>
 Institute for Comparative Genomics, Dalhousie University<br>
 Content of the workshop was mainly the same as the Beginner and Advanced Microbiome Workshops, above, but all lectures and labs were delivered by me<br>
 Setup of AWS Instances for all workshop participants, including install of all programs needed for analyses & RStudio server as well as launching of accounts/instances for participants and organizing/logistics of workshop
