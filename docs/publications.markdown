@@ -9,10 +9,8 @@ permalink: /publications/
 #### Oral microbial signatures associated with age and frailty in Canadian adults.
 [link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
   DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
-  **Contribution:** data analysis, writing and editing of the manuscript.
-
-<details>
-  <summary><h5>Abstract</h5></summary>
+  **Contribution:** data analysis, writing and editing of the manuscript.<br>
+<details><summary><h5>Abstract</h5></summary>
   This study aimed to assess the association between the oral microbiome, age, and frailty. Data and saliva samples were obtained from male and female participants aged 35–70 years (n = 1357). Saliva samples were analysed by 16S rRNA gene sequencing and differences in microbial diversity and community compositions were examined in relation to chronological age and the frailty index (FI). Most alpha diversity measures (Richness, Shannon Diversity, Faith’s Phylogenetic Diversity) showed an inverse association with frailty, whereas a positive association was observed with age and Shannon Diversity and Evenness. A further sex-stratified analysis revealed differences in measures of microbial diversity and composition. Multiple genera were detected as significantly differentially abundant with increasing frailty and age by at least two methods. With age, the relative abundance of Veillonella was reduced in both males and females, whereas increases in Corynebacterium appeared specific to males and Aggregatibacter, Fusobacterium, Neisseria, Stomatobaculum, and Porphyromonas specific to females. Beta diversity was significantly associated with multiple mental health components of the FI. This study shows age and frailty are differentially associated with measures of microbial diversity and composition, suggesting the oral microbiome may be a useful indicator of increased risk of frailty or a potential target for improving health in ageing adults.
 </details>
 
