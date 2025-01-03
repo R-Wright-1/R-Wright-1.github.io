@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image]({{ site.baseurl }}/assets/RW_photo_2024.jpg)
+![Image](/assets/RW_photo_2024.jpg)
 
 ## Dr. Robyn Wright
 ### Microbial Ecologist / Bioinformatician / Postdoctoral Research Fellow
