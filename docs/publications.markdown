@@ -114,65 +114,81 @@ The extent of senescence due to damage accumulation—or aging—is evidently ev
 Plastics become rapidly colonized by microbes when released into marine environments. This microbial community—the Plastisphere—has recently sparked a multitude of scientific inquiries and generated a breadth of knowledge, which we bring together in this review. Besides providing a better understanding of community composition and biofilm development in marine ecosystems, we critically discuss current research on plastic biodegradation and the identification of potentially pathogenic “hitchhikers” in the Plastisphere. The Plastisphere is at the interface between the plastic and its surrounding milieu, and thus drives every interaction that this synthetic material has with its environment, from ecotoxicity and new links in marine food webs to the fate of the plastics in the water column. We conclude that research so far has not shown Plastisphere communities to starkly differ from microbial communities on other inert surfaces, which is particularly true for mature biofilm assemblages. Furthermore, despite progress that has been made in this field, we recognize that it is time to take research on plastic–Plastisphere–environment interactions a step further by identifying present gaps in our knowledge and offering our perspective on key aspects to be addressed by future studies: (I) better physical characterization of marine biofilms, (II) inclusion of relevant controls, (III) study of different successional stages, (IV) use of environmentally relevant concentrations of biofouled microplastics, and (V) prioritization of gaining a mechanistic and functional understanding of Plastisphere communities.
 </details>
 <br>
-### Plasticizer degradation by marine bacterial isolates: a proteogenomic and metabolomic characterization. 
-**Wright, R.**, Bosch, R., Gibson, M. & Christie-Oleza, J. (2020) *Env. Sci. Technol.* ([link to paper](https://pubs.acs.org/doi/10.1021/acs.est.9b05228) / [link to journal cover](https://pubs.acs.org/toc/esthag/54/4))
+#### Plasticizer degradation by marine bacterial isolates: a proteogenomic and metabolomic characterization. 
+[Link to paper](https://pubs.acs.org/doi/10.1021/acs.est.9b05228) / [Link to journal cover](https://pubs.acs.org/toc/esthag/54/4)<br>
+**Wright, R.**, Bosch, R., Gibson, M. & Christie-Oleza, J. (2020) *Env. Sci. Technol.* <br>
 <details>
 <summary>Abstract</summary>
-
+Many commercial plasticizers are toxic endocrine-disrupting chemicals that are added to plastics during manufacturing and may leach out once they reach the environment. Traditional phthalic acid ester plasticizers (PAEs), such as dibutyl phthalate (DBP) and bis(2-ethyl hexyl) phthalate (DEHP), are now increasingly being replaced with more environmentally friendly alternatives, such as acetyl tributyl citrate (ATBC). While the metabolic pathways for PAE degradation have been established in the terrestrial environment, to our knowledge, the mechanisms for ATBC biodegradation have not been identified previously and plasticizer degradation in the marine environment remains underexplored. From marine plastic debris, we enriched and isolated microbes able to grow using a range of plasticizers and, for the first time, identified the pathways used by two phylogenetically distinct bacteria to degrade three different plasticizers (i.e., DBP, DEHP, and ATBC) via a comprehensive proteogenomic and metabolomic approach. This integrated multi-OMIC study also revealed the different mechanisms used for ester side-chain removal from the different plasticizers (esterases and enzymes involved in the β-oxidation pathway) as well as the molecular response to deal with toxic intermediates, that is, phthalate, and the lower biodegrading potential detected for ATBC than for PAE plasticizers. This study highlights the metabolic potential that exists in the biofilms that colonize plastics—the Plastisphere—to effectively biodegrade plastic additives and flags the inherent importance of microbes in reducing plastic toxicity in the environment.
 </details>
 <br>
-### Early colonization of weathered polyethylene by distinct bacteria in marine coastal seawater. 
-Erni-Cassola, G., **Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microb. Ecol.* ([link to paper](https://link.springer.com/article/10.1007/s00248-019-01424-5))
-**Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, editing of the manuscript.
+#### Early colonization of weathered polyethylene by distinct bacteria in marine coastal seawater. 
+[Link to paper](https://link.springer.com/article/10.1007/s00248-019-01424-5)<br>
+Erni-Cassola, G., **Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microb. Ecol.* <br>
+**Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
-
+Plastic debris in aquatic environments is rapidly colonized by a diverse community of microorganisms, often referred to as the “Plastisphere.” Given that common plastics are derived from fossil fuels, one would expect that Plastispheres should be enriched with obligate hydrocarbon-degrading bacteria (OHCB). So far, though, different polymer types do not seem to exert a strong effect on determining the composition of the Plastisphere, and putative biodegrading bacteria are only found as rare taxa within these biofilms. Here, we show through 16S rRNA gene sequencing that the enrichment of a prominent OHCB member on weathered and non-weathered polyethylene only occurred at early stages of colonization (i.e., after 2 days of incubation in coastal marine water; 5.8% and 3.7% of relative abundance, respectively, vs. 0.6% on glass controls). As biofilms matured, these bacteria decreased in relative abundance on all materials (< 0.3% after 9 days). Apart from OHCB, weathered polyethylene strongly enriched for other distinct organisms during early stages of colonization, such as a specific member of the Roseobacter group and a member of the genus Aestuariibacter (median 26.9% and 1.8% of the community, respectively), possibly as a consequence of the availability of short-oxidized chains generated from weathering. Our results demonstrate that Plastispheres can vary in accordance with the weathering state of the material and that very early colonizing communities are enriched with taxa that can potentially degrade hydrocarbons. Given the lack of persistent enrichment and overall community convergence between materials over time, common non-hydrolysable polymers might not serve as an important source of carbon for mature Plastispheres once the labile substrates generated from weathering have been depleted.
 </details>
 <br>
-### Understanding microbial community dynamics to improve optimal microbiome selection.
-**Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microbiome.* ([link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x) / [link to preprint](https://doi.org/10.1101/474742))
+#### Understanding microbial community dynamics to improve optimal microbiome selection.
+[Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x) / [Link to preprint](https://doi.org/10.1101/474742)<br>
+**Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microbiome.* <br>
 <details>
 <summary>Abstract</summary>
-
+<b>Background</b><br>
+Artificial selection of microbial communities that perform better at a desired process has seduced scientists for over a decade, but the method has not been systematically optimised nor the mechanisms behind its success, or failure, determined. Microbial communities are highly dynamic and, hence, go through distinct and rapid stages of community succession, but the consequent effect this may have on artificially selected communities is unknown.<br>
+<br>
+<b>Results</b><br>
+Using chitin as a case study, we successfully selected for microbial communities with enhanced chitinase activities but found that continuous optimisation of incubation times between selective transfers was of utmost importance. The analysis of the community composition over the entire selection process revealed fundamental aspects in microbial ecology: when incubation times between transfers were optimal, the system was dominated by Gammaproteobacteria (i.e. main bearers of chitinase enzymes and drivers of chitin degradation), before being succeeded by cheating, cross-feeding and grazing organisms.<br>
+<br>
+<b>Conclusions</b><br>
+The selection of microbiomes to enhance a desired process is widely used, though the success of artificially selecting microbial communities appears to require optimal incubation times in order to avoid the loss of the desired trait as a consequence of an inevitable community succession. A comprehensive understanding of microbial community dynamics will improve the success of future community selection studies.<br>
 </details>
 <br>
 # PREPRINTS
 
-### Lime amendment to chronically acidified forest soils results in shifts in microbial communities.
-Hosmer, M.*, **Wright, R.***, McCavour, C., Keys, K., Langille, M., Sterling, S. & Rohde, J. * denotes equal contribution. ([link to preprint](https://doi.org/10.21203/rs.3.rs-3876773/v1))
+#### Lime amendment to chronically acidified forest soils results in shifts in microbial communities.
+[Link to preprint](https://doi.org/10.21203/rs.3.rs-3876773/v1)<br>
+Hosmer, M.*, **Wright, R.***, McCavour, C., Keys, K., Langille, M., Sterling, S. & Rohde, J. <br>
+* denotes equal contribution. <br>
 <details>
 <summary>Abstract</summary>
-
+A consequence of past acid rain events has been chronic acidification of both Nova Scotian forests and watersheds, leading to a loss of essential nutrients and subsequently to decreased forest productivity and biodiversity. Liming – supplementing forests with crushed rock (dolomite, limestone, or basalt) – can restore essential nutrients to acidified soils as well as increasing the pH of the soils and the carbon capture by forests by promotion of tree growth. The effectiveness of liming treatments have often been assessed biologically through tree growth measurements, but microorganisms respond rapidly to changes in pH and nutrient availability, and would potentially provide early insights into forest recovery. However, the impact of liming on the soil microbiome is not well understood; understanding the impacts of liming on a micro as well as a macro level will help to determine whether liming is a good remediation strategy for Nova Scotia. A pilot study evaluating liming in acidified forests in Nova Scotia began in 2017. Microbiome analyses (prokaryotic 16S rRNA and fungal ITS2 gene amplicon sequencing) of three different depths (horizons) of soil show significant differences between lime-treated and control soils for the prokaryotic but not fungal communities, particularly in the uppermost soil horizon sampled. Notably, several genera, particularly from the Bacteroidia class, were significantly more abundant in treated than control soils in both upper soil horizons. The impacts of liming treatment were smaller in the deepest soil horizon sampled, suggesting that lime amendment either takes longer to reach these depths, or has little impact on these microbial communities. Future studies that investigate the functional capacity of these microbial communities and longitudinal follow-ups are warranted.
 </details>
 <br>
 # BOOK CHAPTERS
 
-### Current research on microbe-plastic interactions in the marine environment. 
+#### Current research on microbe-plastic interactions in the marine environment. 
 *In: Plastic Pollution in the Global Oceans.*
-Latva, M., Zadjelovic, V. & **Wright, R.** (2023) Ed. Horton, A. ([link to chapter](https://doi.org/10.1142/9789811259111_0011) / [link to preprint](https://www.preprints.org/manuscript/202107.0273/v1))
-**Contribution:** senior author; planned and coordinated the review, carried out reviews of scientific literature and other reviews, analysed data/produced figures, writing and editing of the manuscript.
+[Link to chapter](https://doi.org/10.1142/9789811259111_0011) / [Link to preprint](https://www.preprints.org/manuscript/202107.0273/v1)<br>
+Latva, M., Zadjelovic, V. & **Wright, R.** (2023) Ed. Horton, A. <br>
+**Contribution:** senior author; planned and coordinated the review, carried out reviews of scientific literature and other reviews, analysed data/produced figures, writing and editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
-
+The microbial colonisers of plastics – the ‘plastisphere’ – can affect all interactions that plastics have with their surrounding environments. While only specifically characterised within the last 10 years, at the beginning of 2021 there were 140 primary research and 65 review articles that investigate at least one aspect of the plastisphere. We gathered information on the locations and methodologies used by each of the primary research articles, highlighting several aspects of plastisphere research that remain understudied: (i) the non-bacterial plastisphere constituents; (ii) the mechanisms used to degrade plastics by marine isolates or communities; (iii) the capacity for plastisphere members to be pathogenic or carry antimicrobial resistance genes; and (iv) meta-OMIC characterisations of the plastisphere. We have also summarised the topics covered by the existing plastisphere review articles, identifying areas that have received less attention to date – most of which are in line with the areas that have fewer primary research articles. Therefore, in addition to providing an overview of some fundamental topics such as biodegradation and community assembly, we discuss the importance of eukaryotes in shaping the plastisphere, potential pathogens carried by plastics and the impact of the plastisphere on plastic transport and biogeochemical cycling. Finally, we summarise the future directions suggested by the reviews that we have evaluated and suggest other key research questions.
 </details>
 <br>
-### Pollution and Potential Anthropogenic Impacts in Chagos/BIOT.
-*In: Coral Reefs of the United Kingdom Overseas Territories.*
-Readman, J., […11 other authors in alphabetical order…], **Wright, R.** & Sheppard, C. (2013) Contaminants, ([link to chapter](https://link.springer.com/chapter/10.1007/978-94-007-5965-7_21))
-**Contribution:** carried out manual sorting of sediment samples for potential plastic pieces and performed FTIR spectroscopy on all potential plastics for identification.
+#### Contaminants, Pollution and Potential Anthropogenic Impacts in Chagos/BIOT.
+[Link to chapter](https://link.springer.com/chapter/10.1007/978-94-007-5965-7_21)<br>
+*In: Coral Reefs of the United Kingdom Overseas Territories.*<br>
+Readman, J., […11 other authors in alphabetical order…], **Wright, R.** & Sheppard, C. (2013) <br>
+**Contribution:** carried out manual sorting of sediment samples for potential plastic pieces and performed FTIR spectroscopy on all potential plastics for identification and wrote up the results for this section.<br>
 <details>
 <summary>Abstract</summary>
-
+A broad range of chemical contaminants and pollutants have been measured within the Chagos Archipelago. Contamination is amongst the lowest in the world. Whilst much data is in the open literature, the chapter also includes details of extensive pollution monitoring for the atoll Diego Garcia which hosts a military facility. Hydrocarbons present are primarily of a natural origin with negligible evidence of contamination from petroleum or combustion origins. Tar balls, however, have been reported on several beaches in the Archipelago. Analyses of faecal steroids provide negligible evidence of sewage contamination. ‘Persistent organic pollutants’ (POPs), including PCBs and pesticides, were generally below analytical detection limits, as were polyfluorinated compounds, brominated, chlorinated and organo-phosphorous flame retardants, fluorinated tensides, and surfactants (PFOS). Antifouling biocides and herbicides in Diego Garcia show negligible contamination. Metal concentrations are very low. Levels of most contaminants are typically comparable to those recorded in environments perceived to be pristine, for example, the Antarctic. In Diego Garcia, extensive monitoring includes regular analyses in accredited US laboratories of over one hundred metals and organic contaminants. Results generally reveal concentrations below detection limits. This is in agreement with the open literature surveys. These legislated assessments are designed to ensure both environmental and human health preservation. Whilst many detection limits are higher than those of the independent surveys, they generally confirm the pristine nature of the Archipelago. Beach surveys, however, revealed a surprisingly high number of pieces of debris throughout the Archipelago, mainly plastics of South East Asian origin. The number of litter pieces in Diego Garcia was less than in the other atolls, reductions being attributed to beach clean-up events. Microplastic contamination is shown to be both widespread and relatively high compared to other locations on a global scale, and there were significantly more microplastics at uninhabited atolls compared to the Diego Garcia, showing the potential for microplastics to accumulate in remote locations. Holothurian (sea cucumber) poaching has been another significant environmental pressure on the coral reefs of Chagos and is included in this review, in view of the reported ecological benefits of the group to reef health and resilience.
 </details>
 <br>
 # COMMISSIONED SCIENTIFIC ARTICLES
 
-### The global diversity of the plastisphere
-**Wright, R.** (2021)  (magazine article for the March 2021 issue of Society for applied Microbiology’s The Microbiologist magazine; [link to magazine](https://sfam.org.uk/knowledge/microbiologist-magazine.html))
+#### The global diversity of the plastisphere
+[Link to magazine](https://sfam.org.uk/knowledge/microbiologist-magazine.html)<br>
+**Wright, R.** (2021)  (magazine article for the March 2021 issue of Society for applied Microbiology’s The Microbiologist magazine)<br>
 
-### The PET-biodegrading potential of the Plastisphere
-**Wright, R.** (2020) (blog post as part of the Microbiology Society’s “A sustainable future” project; [link to article](https://microbiologysociety.org/our-work/75th-anniversary-a-sustainable-future/circular-economy/circular-economy-case-studies/the-pet-biodegrading-potential-of-the-plastisphere.html))
+#### The PET-biodegrading potential of the Plastisphere
+[Link to article](https://microbiologysociety.org/our-work/75th-anniversary-a-sustainable-future/circular-economy/circular-economy-case-studies/the-pet-biodegrading-potential-of-the-plastisphere.html)<br>
+**Wright, R.** (2020) (blog post as part of the Microbiology Society’s “A sustainable future” project)<br>
 
-### Marine bacteria and the plastisphere. 
+#### Marine bacteria and the plastisphere. 
 **Wright, R.** (2019) *Biological Sciences Review* (article for educational magazine aimed at 16-18 year-old biology students)
 
