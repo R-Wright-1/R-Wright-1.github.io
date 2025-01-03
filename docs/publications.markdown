@@ -8,7 +8,8 @@ permalink: /publications/
 
 #### Oral microbial signatures associated with age and frailty in Canadian adults.
 [Link to paper](https://doi.org/10.1038/s41598-024-60409-8) / [Link to preprint](https://www.researchsquare.com/article/rs-3760138/v1)<br>
-DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
+DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024)<br>
+*Scientific Reports* <br>
 **Contribution:** data analysis, writing and editing of the manuscript.<br>
 <details>
   <summary>Abstract</summary>
@@ -17,7 +18,8 @@ DeClercq, V., **Wright, R.**, Nearing, J. & Langille, M. (2024) *Sci. Rep.* <br>
 <br>
 #### Microbial hitchhikers harbouring antimicrobial-resistance genes in the riverine plastisphere.
 [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01662-3) / [Link to preprint](https://www.researchsquare.com/article/rs-2886255/v1)<br>
-Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)  *Microbiome.*<br>
+Zadjelovic, V., **Wright, R.**, Borsetto, C., Jeannelle Quartey, Tyler N. Cairns, Langille, M., Quilliam, R., Christie-Oleza, J. & Wellington, E. (2023)<br>
+*Microbiome*<br>
 **Contribution:** all data analysis and figure generation; writing and editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
@@ -33,7 +35,8 @@ Our results provide insights into the capacity of the riverine plastisphere to h
 <br>
 #### Assessing the impact of chronic and acute plastic pollution from construction activities and other anthropogenic sources: A case study from the coast of Antofogasta, Chile.
 [Link to paper](https://doi.org/10.1016/j.marpolbul.2023.115510) / [Link to preprint](http://dx.doi.org/10.2139/ssrn.4489230)<br>
-Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., Christie-Oleza, J. & Riquelme, C. (2023) *Mar. Poll. Bull.*<br>
+Zadjelovic, V., **Wright, R.**, Walker, T., Avalos, V., Marîn, P., Ushak, S., Christie-Oleza, J. & Riquelme, C. (2023)<br>
+*Marine Pollution Bulletin*<br>
 **Contribution:** writing and editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
@@ -42,14 +45,17 @@ Plastic pollution is a critical environmental issue with far-reaching and not ye
 <br>
 #### Exploring the microbiome of oral epithelial dysplasia as a predictor of malignant progression. 
 [Link to paper](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-023-02911-5) / [Link to preprint](https://www.researchsquare.com/article/rs-2129013/v1)<br>
-**Wright, R.**, Pewarchuk, M., Marshall, E., Murray, B., Rosin, M., Laronde, D., Zhang, L., Lam, W., Langille, M. & Rock, L. (2023) *BMC Oral Health.*<br>
+**Wright, R.**, Pewarchuk, M., Marshall, E., Murray, B., Rosin, M., Laronde, D., Zhang, L., Lam, W., Langille, M. & Rock, L. (2023)<br>
+*BMC Oral Health*<br>
 <details>
 <summary>Abstract</summary>
 A growing body of research associates the oral microbiome and oral cancer. Well-characterized clinical samples with outcome data are required to establish relevant associations between the microbiota and disease. The objective of this study was to characterize the community variations and the functional implications of the microbiome in low-grade oral epithelial dysplasia (OED) using 16S rRNA gene sequencing from annotated archival swabs in progressing (P) and non-progressing (NP) OED. We characterised the microbial community in 90 OED samples — 30 swabs from low-grade OED that progressed to cancer (cases) and 60 swabs from low-grade OED that did not progress after a minimum of 5 years of follow up (matched control subjects). There were small but significant differences between P and NP samples in terms of alpha diversity as well as beta diversity in conjunction with other clinical factors such as age and smoking status for both taxa and functional predictions. Across all samples, the most abundant genus was Streptococcus, followed by Haemophilus, Rothia, and Neisseria. Taxa and predicted functions were identified that were significantly differentially abundant with progression status (all Ps and NPs), when samples were grouped broadly by the number of years between sampling and progression or in specific time to progression for Ps only. However, these differentially abundant features were typically present only at low abundances. For example, Campylobacter was present in slightly higher abundance in Ps (1.72%) than NPs (1.41%) and this difference was significant when Ps were grouped by time to progression. Furthermore, several of the significantly differentially abundant functions were linked to the Campylobacteraceae family in Ps and may justify further investigation. Larger cohort studies to further explore the microbiome as a potential biomarker of risk in OED are warranted.
 </details>
 <br>
 #### From defaults to databases: parameter and database choice dramatically impact the performance of metagenomic taxonomic classification tools.
-**Wright, R.**, Comeau, A. & Langille, M. (2023) *Microb. Genom.* ([link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1))<br>
+[Link to paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000949) / [Link to preprint](https://www.biorxiv.org/content/10.1101/2022.04.27.489753v1)
+**Wright, R.**, Comeau, A. & Langille, M. (2023)<br>
+*Microbial Genomics* <br>
 <details>
 <summary>Abstract</summary>
 In metagenomic analyses of microbiomes, one of the first steps is usually the taxonomic classification of reads by comparison to a database of previously taxonomically classified genomes. While different studies comparing metagenomic taxonomic classification methods have determined that different tools are ‘best’, there are two tools that have been used the most to-date: Kraken (k-mer-based classification against a user-constructed database) and MetaPhlAn (classification by alignment to clade-specific marker genes), the latest versions of which are Kraken2 and MetaPhlAn 3, respectively. We found large discrepancies in both the proportion of reads that were classified as well as the number of species that were identified when we used both Kraken2 and MetaPhlAn 3 to classify reads within metagenomes from human-associated or environmental datasets. We then investigated which of these tools would give classifications closest to the real composition of metagenomic samples using a range of simulated and mock samples and examined the combined impact of tool–parameter–database choice on the taxonomic classifications given. This revealed that there may not be a one-size-fits-all ‘best’ choice. While Kraken2 can achieve better overall performance, with higher precision, recall and F1 scores, as well as alpha- and beta-diversity measures closer to the known composition than MetaPhlAn 3, the computational resources required for this may be prohibitive for many researchers, and the default database and parameters should not be used. We therefore conclude that the best tool–parameter–database choice for a particular application depends on the scientific question of interest, which performance metric is most important for this question and the limit of available computational resources.
@@ -57,7 +63,8 @@ In metagenomic analyses of microbiomes, one of the first steps is usually the ta
 <br>
 #### Microbial pioneers of plastic colonisation in coastal seawaters. 
 [Link to paper](https://doi.org/10.1016/j.marpolbul.2022.113701)<br>
-Latva, M., Dedman, C., **Wright, R.**, Polin, M. & Christie-Oleza, J. (2022) *Mar. Poll. Bull.*<br>
+Latva, M., Dedman, C., **Wright, R.**, Polin, M. & Christie-Oleza, J. (2022)<br>
+*Marine Pollution Bulletin*<br>
 **Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, supervision of data analysis, editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
@@ -66,7 +73,8 @@ Plastics, when entering the environment, are immediately colonised by microorgan
 <br>
 #### Microbiome differential abundance methods produce different results across 38 datasets. 
 [Link to paper](https://doi.org/10.1038/s41467-022-28034-z) / [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.05.10.443486v1)<br>
-Nearing, J., Douglas, G., Hayes, M., MacDonald, J., Desai, D., Allward, N., Jones, C., **Wright, R.**, Dhanani, A., Comeau, A. & Langille, M. (2022) *Nat. Comms.*<br>
+Nearing, J., Douglas, G., Hayes, M., MacDonald, J., Desai, D., Allward, N., Jones, C., **Wright, R.**, Dhanani, A., Comeau, A. & Langille, M. (2022)<br>
+*Nature Communications*<br>
 **Contribution:** processed some of the datasets, contributed to decision-making on analyses and presentation of results, editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
@@ -75,7 +83,8 @@ Identifying differentially abundant microbes is a common goal of microbiome stud
 <br>
 #### A multi-OMIC study of biodegradation and microbial community succession within the PET Plastisphere. 
 [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-021-01054-5) / [Link to preprint](https://doi.org/10.21203/rs.3.rs-104576/v1); [Link to conference abstract](https://doi.org/10.1099/acmi.ac2019.po0168)<br>
-**Wright, R.**, Bosch, R., Langille, M., Gibson, M. & Christie-Oleza, J. (2021) *Microbiome.*<br>
+**Wright, R.**, Bosch, R., Langille, M., Gibson, M. & Christie-Oleza, J. (2021)<br>
+*Microbiome*<br>
 <details>
 <summary>Abstract</summary>
 <b>Background</b><br>
@@ -90,7 +99,8 @@ Overall, the results of our multi-OMIC characterisation of PET degradation provi
 <br>
 #### Food or just a free ride? A meta-analysis reveals the global diversity of the Plastisphere.
 [Link to paper](https://doi.org/10.1038/s41396-020-00814-9) (Editor's choice)<br>
-**Wright, R.**, Langille, M. & Walker, T. (2021) *The ISME Journal.*<br>
+**Wright, R.**, Langille, M. & Walker, T. (2021)<br>
+*The ISME Journal*<br>
 <details>
 <summary>Abstract</summary>
 It is now indisputable that plastics are ubiquitous and problematic in ecosystems globally. Many suggestions have been made about the role that biofilms colonizing plastics in the environment—termed the “Plastisphere”—may play in the transportation and ecological impact of these plastics. By collecting and re-analyzing all raw 16S rRNA gene sequencing and metadata from 2,229 samples within 35 studies, we have performed the first meta-analysis of the Plastisphere in marine, freshwater, other aquatic (e.g., brackish or aquaculture) and terrestrial environments. We show that random forest models can be trained to differentiate between groupings of environmental factors as well as aspects of study design, but—crucially—also between plastics when compared with control biofilms and between different plastic types and community successional stages. Our meta-analysis confirms that potentially biodegrading Plastisphere members, the hydrocarbonoclastic Oceanospirillales and Alteromonadales are consistently more abundant in plastic than control biofilm samples across multiple studies and environments. This indicates the predilection of these organisms for plastics and confirms the urgent need for their ability to biodegrade plastics to be comprehensively tested. We also identified key knowledge gaps that should be addressed by future studies.
@@ -98,16 +108,18 @@ It is now indisputable that plastics are ubiquitous and problematic in ecosystem
 <br>
 #### Damage repair versus aging in an individual-based model of biofilms.
 [Link to paper](https://doi.org/10.1128/mSystems.00018-20) / [Link to preprint](https://www.biorxiv.org/content/10.1101/2020.01.08.899740v1) / [Link to conference abstract](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.ac2019.po0205)<br>
-**Wright, R.**, Clegg, R., Coker, T. & Kreft, J-U. (2020) *mSystems.* <br>
+**Wright, R.**, Clegg, R., Coker, T. & Kreft, J-U. (2020)<br>
+*mSystems* <br>
 <details>
 <summary>Abstract</summary>
-The extent of senescence due to damage accumulation—or aging—is evidently evolvable as it differs hugely between species and is not universal, suggesting that its fitness advantages depend on life history and environment. In contrast, repair of damage is present in all organisms studied. Despite the fundamental trade-off between investing resources into repair or into growth, repair and segregation of damage have not always been considered alternatives. For unicellular organisms, unrepaired damage could be divided asymmetrically between daughter cells, leading to senescence of one and rejuvenation of the other. Repair of “unicells” has been predicted to be advantageous in well-mixed environments such as chemostats. Most microorganisms, however, live in spatially structured systems, such as biofilms, with gradients of environmental conditions and cellular physiology as well as a clonal population structure. To investigate whether this clonal structure might favor senescence by damage segregation (a division-of-labor strategy akin to the germline-soma division in multicellular organisms), we used an individual-based computational model and developed an adaptive repair strategy where cells respond to their current intracellular damage levels by investing into repair machinery accordingly. Our simulations showed that the new adaptive repair strategy was advantageous provided that growth was limited by substrate availability, which is typical for biofilms. Thus, biofilms do not favor a germline-soma-like division of labor between daughter cells in terms of damage segregation. We suggest that damage segregation is beneficial only when extrinsic mortality is high, a degree of multicellularity is present, and an active mechanism makes segregation effective.<br>
+The extent of senescence due to damage accumulation—or aging—is evidently evolvable as it differs hugely between species and is not universal, suggesting that its fitness advantages depend on life history and environment. In contrast, repair of damage is present in all organisms studied. Despite the fundamental trade-off between investing resources into repair or into growth, repair and segregation of damage have not always been considered alternatives. For unicellular organisms, unrepaired damage could be divided asymmetrically between daughter cells, leading to senescence of one and rejuvenation of the other. Repair of “unicells” has been predicted to be advantageous in well-mixed environments such as chemostats. Most microorganisms, however, live in spatially structured systems, such as biofilms, with gradients of environmental conditions and cellular physiology as well as a clonal population structure. To investigate whether this clonal structure might favor senescence by damage segregation (a division-of-labor strategy akin to the germline-soma division in multicellular organisms), we used an individual-based computational model and developed an adaptive repair strategy where cells respond to their current intracellular damage levels by investing into repair machinery accordingly. Our simulations showed that the new adaptive repair strategy was advantageous provided that growth was limited by substrate availability, which is typical for biofilms. Thus, biofilms do not favor a germline-soma-like division of labor between daughter cells in terms of damage segregation. We suggest that damage segregation is beneficial only when extrinsic mortality is high, a degree of multicellularity is present, and an active mechanism makes segregation effective.<br><br>
 <b>IMPORTANCE</b> Damage is an inevitable consequence of life. For unicellular organisms, this leads to a trade-off between allocating resources into damage repair or into growth coupled with segregation of damage upon cell division, i.e., aging and senescence. Few studies considered repair as an alternative to senescence. None considered biofilms, where the majority of unicellular organisms live, although fitness advantages in well-mixed systems often turn into disadvantages in spatially structured systems such as biofilms. We compared the fitness consequences of aging versus an adaptive repair mechanism based on sensing damage, using an individual-based model of a generic unicellular organism growing in biofilms. We found that senescence is not beneficial provided that growth is limited by substrate availability. Instead, it is useful as a stress response to deal with damage that failed to be repaired when (i) extrinsic mortality was high; (ii) a degree of multicellularity was present; and (iii) damage segregation was effective.
 </details>
 <br>
 #### Marine plastic debris – a new surface for microbial colonization. 
 [Link to paper](https://doi.org/10.1021/acs.est.0c02305) / [Link to journal cover](https://pubs.acs.org/toc/esthag/54/19)<br>
-**Wright, R.***, Erni-Cassola, G.*, Zadjelovic, V., Latva, M. & Christie-Oleza, J. (2020) *Env. Sci. Technol.* <br>
+**Wright, R.***, Erni-Cassola, G.*, Zadjelovic, V., Latva, M. & Christie-Oleza, J. (2020)<br>
+*Environmental Science & Technology* <br>
 * denotes equal contribution.<br>
 <details>
 <summary>Abstract</summary>
@@ -116,7 +128,8 @@ Plastics become rapidly colonized by microbes when released into marine environm
 <br>
 #### Plasticizer degradation by marine bacterial isolates: a proteogenomic and metabolomic characterization. 
 [Link to paper](https://pubs.acs.org/doi/10.1021/acs.est.9b05228) / [Link to journal cover](https://pubs.acs.org/toc/esthag/54/4)<br>
-**Wright, R.**, Bosch, R., Gibson, M. & Christie-Oleza, J. (2020) *Env. Sci. Technol.* <br>
+**Wright, R.**, Bosch, R., Gibson, M. & Christie-Oleza, J. (2020)<br>
+*Environmental Science & Technology* <br>
 <details>
 <summary>Abstract</summary>
 Many commercial plasticizers are toxic endocrine-disrupting chemicals that are added to plastics during manufacturing and may leach out once they reach the environment. Traditional phthalic acid ester plasticizers (PAEs), such as dibutyl phthalate (DBP) and bis(2-ethyl hexyl) phthalate (DEHP), are now increasingly being replaced with more environmentally friendly alternatives, such as acetyl tributyl citrate (ATBC). While the metabolic pathways for PAE degradation have been established in the terrestrial environment, to our knowledge, the mechanisms for ATBC biodegradation have not been identified previously and plasticizer degradation in the marine environment remains underexplored. From marine plastic debris, we enriched and isolated microbes able to grow using a range of plasticizers and, for the first time, identified the pathways used by two phylogenetically distinct bacteria to degrade three different plasticizers (i.e., DBP, DEHP, and ATBC) via a comprehensive proteogenomic and metabolomic approach. This integrated multi-OMIC study also revealed the different mechanisms used for ester side-chain removal from the different plasticizers (esterases and enzymes involved in the β-oxidation pathway) as well as the molecular response to deal with toxic intermediates, that is, phthalate, and the lower biodegrading potential detected for ATBC than for PAE plasticizers. This study highlights the metabolic potential that exists in the biofilms that colonize plastics—the Plastisphere—to effectively biodegrade plastic additives and flags the inherent importance of microbes in reducing plastic toxicity in the environment.
@@ -124,7 +137,8 @@ Many commercial plasticizers are toxic endocrine-disrupting chemicals that are a
 <br>
 #### Early colonization of weathered polyethylene by distinct bacteria in marine coastal seawater. 
 [Link to paper](https://link.springer.com/article/10.1007/s00248-019-01424-5)<br>
-Erni-Cassola, G., **Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microb. Ecol.* <br>
+Erni-Cassola, G., **Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019)<br>
+*Microbial Ecology* <br>
 **Contribution:** discussion of experimental and statistical methodologies, MiSeq library preparation and sequencing, editing of the manuscript.<br>
 <details>
 <summary>Abstract</summary>
@@ -133,7 +147,8 @@ Plastic debris in aquatic environments is rapidly colonized by a diverse communi
 <br>
 #### Understanding microbial community dynamics to improve optimal microbiome selection.
 [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0702-x) / [Link to preprint](https://doi.org/10.1101/474742)<br>
-**Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) *Microbiome.* <br>
+**Wright, R.**, Gibson, M. & Christie-Oleza, J. (2019) <br>
+*Microbiome* <br>
 <details>
 <summary>Abstract</summary>
 <b>Background</b><br>
@@ -183,12 +198,15 @@ A broad range of chemical contaminants and pollutants have been measured within 
 
 #### The global diversity of the plastisphere
 [Link to magazine](https://sfam.org.uk/knowledge/microbiologist-magazine.html)<br>
-**Wright, R.** (2021)  (magazine article for the March 2021 issue of Society for applied Microbiology’s The Microbiologist magazine)<br>
+**Wright, R.** (2021)<br>
+Magazine article for the March 2021 issue of Society for applied Microbiology’s The Microbiologist magazine<br>
 
 #### The PET-biodegrading potential of the Plastisphere
 [Link to article](https://microbiologysociety.org/our-work/75th-anniversary-a-sustainable-future/circular-economy/circular-economy-case-studies/the-pet-biodegrading-potential-of-the-plastisphere.html)<br>
-**Wright, R.** (2020) (blog post as part of the Microbiology Society’s “A sustainable future” project)<br>
+**Wright, R.** (2020)<br>
+Blog post as part of the Microbiology Society’s “A sustainable future” project<br>
 
 #### Marine bacteria and the plastisphere. 
-**Wright, R.** (2019) *Biological Sciences Review* (article for educational magazine aimed at 16-18 year-old biology students)
+**Wright, R.** (2019) *Biological Sciences Review*<br>
+Article for educational magazine aimed at 16-18 year-old biology students
 
