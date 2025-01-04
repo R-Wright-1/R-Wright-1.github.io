@@ -99,7 +99,7 @@ Setup of AWS Instances for all workshop participants, including install of all p
 
 <h4 style="color:#546D84;">PhD Biological Sciences</h4>
 
-2015 - 2019<br>
+**2015 - 2019**<br>
 School of Life Sciences, University of Warwick, UK<br>
 Faculty of Science, Engineering and Medicine Thesis Prize Winner for School of Life Sciences<br>
 
@@ -116,7 +116,7 @@ Faculty of Science, Engineering and Medicine Thesis Prize Winner for School of L
 
 <h4 style="color:#546D84;">BSc Marine Biology (First Class, Hons.)</h4>
 
-2010 - 2013<br>
+**2010 - 2013**<br>
 University of Plymouth, UK 
 
 **Third year honors project:** Acute toxicity of DDT sorbed to uPVC plastic particles using Cytochrome P450 1A1 (Cyp1a) gene expression analysis in larval zebrafish<br>
