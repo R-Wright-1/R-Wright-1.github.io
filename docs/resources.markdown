@@ -28,7 +28,7 @@ PICRUSt2 is a bioinformatic tool that allows users to predict microbial communit
 
 <h3 style="color:#C57F3B;">2024 ICG Microbiome Analysis</h3>
 
-**July 8-17 2024, Halifax (Nova Scotia)**
+**July 8-17 2024, Halifax (Nova Scotia)**<br>
 [Workshop materials](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-workshops)
 
 During this workshop, I mainly replicated what I had taught in the 2024 CBW Microbiome Analysis workshops, but taught these on my own. I also realised that there wasn't enough detail to fully replicate the workshops using the Amazon Instances, so I provided this on the Github page. The page above also includes links to the CBW workshop lectures on YouTube and is where I would recommend starting for anyone looking at trying to do one of the Microbiome Analysis workshops. 
