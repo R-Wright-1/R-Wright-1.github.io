@@ -39,17 +39,17 @@ After participating in the teaching of the CBW-IMPACTT workshops in 2022 and 202
 
 <h4>Beginner Microbiome Analysis</h4>
 
-**May 27-28 2024, St John's (Newfoundland)**
+**May 27-28 2024, St John's (Newfoundland)**<br>
 [Workshop materials](https://bioinformaticsdotca.github.io/BMB_2024)
 
 <h4>Advanced Microbiome Analysis</h4>
 
-**May 29-30 2024, St John's (Newfoundland)**
+**May 29-30 2024, St John's (Newfoundland)**<br>
 [Workshop materials](https://bioinformaticsdotca.github.io/AMB_2024)
 
 <h3 style="color:#C57F3B;">2023 CBW-IMPACTT Microbiome Analysis</h3>
 
-**July 5-7 2023, Calgary (Alberta)**
+**July 5-7 2023, Calgary (Alberta)**<br>
 [Workshop materials](https://bioinformaticsdotca.github.io/MIC_2023)
 
 I assisted with coordinating the material for Modules 2 ([Marker Gene Taxonomic Analysis (16S)](https://bioinformaticsdotca.github.io/MIC_2023_Module2_lab)) and 3 ([Microbiome Statistics and Visualizations](https://bioinformaticsdotca.github.io/MIC_2023_Module3_lab)) as well as generating all of the lab materials for Module 4 ([Intro to MGS](https://bioinformaticsdotca.github.io/MIC_2023_Module4_lab) including taxonomic and functional annotation of reads). 
