@@ -34,3 +34,6 @@ For the last few years, I have been involved in teaching bioinformatics to other
 
 I also sometimes take on freelance bioinformatics and consulting roles. Please reach out to me at my email below if you are interested in working together. 
 
+<h3 style="color:#AF6182;">Photography</h3>
+
+I'm also a keen photographer; I mainly enjoy taking landscape photos and documenting my adventures trail running and hiking, but I've also taken photos at a couple of trail running races. Hopefully soon I'll add a gallery to showcase some of my favourites, but in the meantime, feel free to check out my [Instagram](https://www.instagram.com/roamwithrobyn) or get in touch if you're interested in working together.
